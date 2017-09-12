@@ -2,19 +2,19 @@
 ## CRITICAL THINKING OF TECHNOLOGY: The Radical Outside | Fall 2017
 
 
-Instructor: Morehshin Allahyari  | http://morehshin.com  | morehshin@gmail.com
-Class Times: Tuesdays at 10am 
-Class Location: School for Poetic Computation  |  http://sfpc.io/ 
+**Instructor:** Morehshin Allahyari | http://morehshin.com  | morehshin@gmail.com
+**Class Times:** Tuesdays at 10am 
+**Class Location:** School for Poetic Computation  |  http://sfpc.io/ 
 @sfpc_school  | https://twitter.com/sfpc_school | 155 Bank St, New York, NY 10014
-Office Hours: Tuesdays, 2-5pm 
+**Office Hours:** Tuesdays, 2-5pm 
 
 
-**Course description
+**Course description**
 
 This is a theory course for critical thinking of technology through the lens of activism, politics, and the 'outside'; to think and create beyond technology for technology's sake; to ask difficult questions; to read, learn, and engage in technology as a field of contemporary art practices and theories, as well as art historical systems. What will separate this course from many others is a collective effort (by all of us) for 'reflective thinking'; to not find comfort in how - up to this very day - the story of technology is told to us; by which figures and which systems. I hope that together we can build a new archive of critical thinking and reading; written and processed by women (+LGBT) and POC.  This is a collaborative course for interrupting and re-building. 
 
 
-**Expectations and Structure
+**Expectations and Structure**
 
 * Each week, two students from the class will present that week's readings. We will focus on one historical and one contemporary reading.
 * Read all the material and come prepared to discuss it in depth. Please bring other resources, authors and artists that you find relevant.
