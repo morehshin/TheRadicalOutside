@@ -49,12 +49,12 @@ Introduction by Melanie Hoff: Melanie will talk about her work and current resea
 **In Class**
 Morehshin: Introduction to Singularities and Futures
 
-Presentation by Matthew 
+Presentation by Matthew Ortega
 1-[A Brief History of Women in Computing by Faruk Ateş](https://hackernoon.com/@kurafire?source=post_header_lockup) 
 +
 BBC documentary : [Calculating Ada - The Countess of Computing 2015](https://www.youtube.com/watch?v=QgUVrzkQgds)
 
-Presentation by Amit
+Presentation by Amit Runchal
  
 2- [The Californian Ideology by Richard Barbrook and Andy Cameron](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/) 
 +
