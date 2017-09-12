@@ -1,6 +1,6 @@
 # List of Podcasts we like
 
-## Please contribute your recommendations with a breif description below
+## Please contribute your recommendations with a brief description below
 
 * Pocket Casts is a good app for subscribing and listening to podcasts: [Casts](https://itunes.apple.com/us/app/pocket-casts/id414834813?mt=8)
 
