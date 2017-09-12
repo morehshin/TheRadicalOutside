@@ -49,22 +49,24 @@ Introduction by Melanie Hoff: Melanie will talk about her work and current resea
 **In Class**
 Morehshin: Introduction to Singularities and Futures
 
+Presentation by Matthew 
 1-[A Brief History of Women in Computing by Faruk Ateş](https://hackernoon.com/@kurafire?source=post_header_lockup) 
 +
 BBC documentary : [Calculating Ada - The Countess of Computing 2015](https://www.youtube.com/watch?v=QgUVrzkQgds)
 
-
-2- The Californian Ideology by Richard Barbrook and Andy Cameron
+Presentation by Amit
+ 
+2- [The Californian Ideology by Richard Barbrook and Andy Cameron](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/) 
 +
-Technology, the Faux Equalizer by Adrienne Lafrance
+[Technology, the Faux Equalizer by Adrienne Lafrance](https://www.theatlantic.com/technology/archive/2016/03/half-full-tech/476025/)
 
 
 
 **Additional Resources:** 
-1-  Close to the Machine: Technophilia and Its Discontents by Ellen Ullman 
-2- “The Singularity is dear” - the Cybertwee Manifesto (Gabriella Hileman, May Waver, and Violet Forest) 
-3- Vernor Vinge singularity
-4- Her - white singularity
+1-  [Close to the Machine: Technophilia and Its Discontents by Ellen Ullman](https://www.amazon.com/Close-Machine-Technophilia-Its-Discontents-ebook/dp/B007FU83DY/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1473648550&sr=1-1&keywords=close+to+the+machine&linkCode=sl1&tag=sarmarwat-20&linkId=cbce746b642771beb48bc3bdfc61d968)  
+2- [“The Singularity is dear” - the Cybertwee Manifesto](http://fnewsmagazine.com/2015/04/the-singularity-is-dear/)
+3- [Vernor Vinge singularity](http://longnow.org/essays/singularity/)
+4- [Her - white singularity](http://mashable.com/2014/01/15/her-singularity/#_kGjMyE8_sqG) 
 
  
 	
@@ -72,15 +74,14 @@ Technology, the Faux Equalizer by Adrienne Lafrance
 Morehshin Allahyari and Daniel Rourke 
 
 
-## Week 3 - Poetry, language, and memory
+## Week 3 - Art, design, and activism
 * Tuesday, September 26, 10am
 
-## Week 4 - Other Futurisms (Feminism, Aforfuturism, Gulf Futurism)
-Manifestos for the Internet Age 
-Guest Speaker
+## Week 4 - Poetry, language, and memory
 * Tuesday, October 3, 10am
 
-## Week 5- Art, design, and activism
+## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf Futurism)
+Guest Speaker
 * Tuesday, October 10, 10am
 	
 ## Week 6 - Digital Colonialism 
@@ -91,8 +92,7 @@ Guest Speaker
 * Tuesday, October 24, 10am 
 
 ## Week 8: Manifestos for the Internet Age 
-IN CLASS SESSION
-Recording for the podcast: THE RADICAL OUTSIDE 
+* Tuesday, November 1, 10am
 
 ## Week 9 - Podcast Audio-Finalizing Session 
 * Tuesday, November 7, 10am
