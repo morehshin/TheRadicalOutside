@@ -17,7 +17,7 @@ This is a theory course for critical thinking of technology through the lens of 
 **Expectations and Structure**
 
 * Each week, two students from the class will present that week's readings. We will focus on one historical and one contemporary reading.
-* Read all the material and come prepared to discuss it in depth. Please bring other resources, authors and artists that you find relevant.
+* Read all the material and come prepared to discuss it in depth. Please bring other resources, authors and artists that you find relevant. Please see here for [presentation guidelines](https://docs.google.com/document/d/1HtTwy6yakti5TaYL_oq0sgZo-mZSv_RGKruh3tff1m0/edit?usp=sharing). 
 * Blog weekly about the readings and your thoughts. Think critically and post something that questions, criticizes, endorses, and/or adds to the reading or find other related material or resources that can juxtapose or compare the reading to something else you find relevant. 
 * Participation in class discussions for readings, material that we watch in class, giving feedback to your peers is essential. 
 * As this is primarily a discussion-based class, let's have all phones off. 
@@ -44,18 +44,21 @@ Introduction by Melanie Hoff: Melanie will talk about her work and current resea
 ## Week 2 - Who owns what history? On Singularities, Silicon Valley, and Futures (Plural)
 * Tuesday, September 19, 10am
 * Readings Due (post one paragraph response on class website)
-Do Artifacts Have Politics? Author(s): Langdon Winner 
+[Do Artifacts Have Politics? Author(s): Langdon Winner](https://docs.google.com/document/d/1HtTwy6yakti5TaYL_oq0sgZo-mZSv_RGKruh3tff1m0/edit?usp=sharing)
 
 **In Class**
 Morehshin: Introduction to Singularities and Futures
 
-1-A Brief History of Women in Computing  by Faruk Ateş 
+1-[A Brief History of Women in Computing by Faruk Ateş](https://hackernoon.com/@kurafire?source=post_header_lockup) 
 +
-BBC documentary : Calculating Ada - The Countess of Computing 2015 
+BBC documentary : [Calculating Ada - The Countess of Computing 2015](https://www.youtube.com/watch?v=QgUVrzkQgds)
+
 
 2- The Californian Ideology by Richard Barbrook and Andy Cameron
 +
 Technology, the Faux Equalizer by Adrienne Lafrance
+
+
 
 **Additional Resources:** 
 1-  Close to the Machine: Technophilia and Its Discontents by Ellen Ullman 
