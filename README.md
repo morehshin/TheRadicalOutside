@@ -71,7 +71,7 @@ Presentation by Amit Runchal
 
  
 	
-“A singularity is a point in space-time of such unfathomable density that the very nature of reality is brought into question. Associated with elusive black holes and the alien particles that bubble up from quantum foam at their event horizon, the term ‘singularity’ has also been co-opted by cultural theorists and techno-utopianists to describe moments of profound social, ontological, or material transformation—the coming-into-being of new worlds that redefine their own origins. Panelists contend with the idea of singularities and ruptures, tackling transformative promises of populist narratives, and ideological discrepancies that are deeply embedded in art and design practices. By reflecting on Afrofuturism and digital colonialism, they will also question narcissistic singularities of ‘I,’ ‘here,’ and ‘now’, counter the rhetoric of technological utopias, and confound principles of human universality.”
+“A singularity is a point in space-time of such unfathomable density that the very nature of reality is brought into question. Associated with elusive black holes and the alien particles that bubble up from quantum foam at their event horizon, the term ‘singularity’ has also been co-opted by cultural theorists and techno-utopianists to describe moments of profound social, ontological, or material transformation—the coming-into-being of new worlds that redefine their own origins. By reflecting on Afrofuturism and digital colonialism, they will also question narcissistic singularities of ‘I,’ ‘here,’ and ‘now’, counter the rhetoric of technological utopias, and confound principles of human universality.”
 Morehshin Allahyari and Daniel Rourke 
 
 
