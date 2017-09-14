@@ -11,7 +11,7 @@
 
 **Course description**
 
-This is a theory course for critical thinking of technology through the lens of activism, politics, and the 'outside'; to think and create beyond technology for technology's sake; to ask difficult questions; to read, learn, and engage in technology as a field of contemporary art practices and theories, as well as art historical systems. What will separate this course from many others is a collective effort (by all of us) for 'reflective thinking'; to not find comfort in how - up to this very day - the story of technology is told to us; by which figures and which systems. I hope that together we can build a new archive of critical thinking and reading; written and processed by women (+LGBT) and POC.  This is a collaborative course for interrupting and re-building. 
+This is a theory course for critical thinking of technology through the lens of activism, politics, and the 'outside'; to think and create beyond technology for technology's sake; to ask difficult questions; to read, learn, and engage in technology as a field of contemporary art practices and theories, as well as art historical systems. What will separate this course from many others is a collective effort (by all of us) for 'reflective thinking'; to not find comfort in how - up to this very day - the story of technology is told to us; by which figures and which systems. I hope that together we can build a new library of critical thinking and reading; written and processed by women (+LGBT) and POC.  This is a collaborative course for interrupting and re-building. 
 
 
 **Expectations and Structure**
@@ -88,9 +88,13 @@ Guest Speaker
 ## Week 6 - Digital Colonialism 
 * Tuesday, October 17, 10am
 
+Presentation by Heather Moore 
+
 ## Week 7 - Privacy and Surveillance
 Guest Speaker
 * Tuesday, October 24, 10am 
+
+Presentation by Wei He
 
 ## Week 8: Manifestos for the Internet Age 
 * Tuesday, November 1, 10am
