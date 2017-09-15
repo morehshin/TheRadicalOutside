@@ -11,3 +11,5 @@
 * The Weeds - Political research conversation
 * Here Be Monsters - strange stories
 * [Hyperallergic List of Podcasts](https://hyperallergic.com/333437/art-and-culture-podcast-episodes-you-should-hear/)
+* Invisibilia (NPR) - consciousness & stufffff
+* Who we are at 2am
