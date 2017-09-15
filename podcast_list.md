@@ -13,3 +13,11 @@
 * [Hyperallergic List of Podcasts](https://hyperallergic.com/333437/art-and-culture-podcast-episodes-you-should-hear/)
 * Invisibilia (NPR) - consciousness & stufffff
 * Who we are at 2am
+* Death sex and money - talks about subject(death sex and money) in various perspective
+* Casefile - true crime stories in depth some are not solved some are disturbing some are just crazy 
+* Crimetown - deep historical research on organized crime and corruption infected every aspect of public life in providence(http://www.crimetownshow.com/about/)
+* Intelligence Squared US debate - Intelligence Squared U.S. addresses a fundamental problem in America: the extreme polarization of our nation and our politics.
+* Why oh why - lot's of things about dating in America
+* Limetown -  a fictional story that combines investigative reports and SF but...didn't continue so if you don't like being cut in the middle don't start
+* Alice isn't dead - another fiction podcast, little surreal, creepy, annoying but addictive
+* Revisionist History - reinterpret something from the past: an event, a person, an idea. Something overlooked. Something misunderstood
