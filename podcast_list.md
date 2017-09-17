@@ -21,3 +21,7 @@
 * Limetown -  a fictional story that combines investigative reports and SF but...didn't continue so if you don't like being cut in the middle don't start
 * Alice isn't dead - another fiction podcast, little surreal, creepy, annoying but addictive
 * Revisionist History - reinterpret something from the past: an event, a person, an idea. Something overlooked. Something misunderstood
+* [Racist Sandwich](http://www.racistsandwich.com/) - food x race x class x gender
+* [Code Switch](http://www.npr.org/sections/codeswitch/) - race and identity (and how we're def not post-racial)
+* [Ear Hustle](https://www.earhustlesq.com/) - stories of life inside prison
+* [Baby Geniuses](http://www.maximumfun.org/shows/baby-geniuses) - funny conversations between two friends (comic artist + comedian)
