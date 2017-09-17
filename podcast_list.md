@@ -21,3 +21,4 @@
 * Limetown -  a fictional story that combines investigative reports and SF but...didn't continue so if you don't like being cut in the middle don't start
 * Alice isn't dead - another fiction podcast, little surreal, creepy, annoying but addictive
 * Revisionist History - reinterpret something from the past: an event, a person, an idea. Something overlooked. Something misunderstood
+* [Recent This American Life episode on race/integration](https://www.thisamericanlife.org/radio-archives/episode/625/essay-b) - "In 1967, the first two black students were enrolled at an all-white private boarding school in Virginia. The main reason they were there? To benefit the white kids."
