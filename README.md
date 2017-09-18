@@ -78,6 +78,8 @@ Morehshin Allahyari and Daniel Rourke
 ## Week 3 - Art, design, and activism
 * Tuesday, September 26, 10am
 
+test
+
 ## Week 4 - Poetry, language, and memory
 * Tuesday, October 3, 10am
 
@@ -95,6 +97,7 @@ Guest Speaker
 * Tuesday, October 24, 10am 
 
 Presentation by Wei He
+
 
 ## Week 8: Manifestos for the Internet Age 
 * Tuesday, November 1, 10am
