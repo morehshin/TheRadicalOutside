@@ -43,7 +43,7 @@ Introduction by Melanie Hoff: Melanie will talk about her work and current resea
 
 ## Week 2 - Who owns what history? On Singularities, Silicon Valley, and Futures (Plural)
 * Tuesday, September 19, 10am
-* Readings Due (post one paragraph response in the directory, week_2_assignment/)
+* Readings Due (post one paragraph response in the directory named week_2_assignment/)
 [Do Artifacts Have Politics? Author(s): Langdon Winner](https://transitiontech.ca/pdf/Winner-Do-Artifacts-Have-Politics-1980.pdf)
 
 **In Class**
