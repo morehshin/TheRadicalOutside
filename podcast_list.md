@@ -21,4 +21,8 @@
 * Limetown -  a fictional story that combines investigative reports and SF but...didn't continue so if you don't like being cut in the middle don't start
 * Alice isn't dead - another fiction podcast, little surreal, creepy, annoying but addictive
 * Revisionist History - reinterpret something from the past: an event, a person, an idea. Something overlooked. Something misunderstood
+* [Racist Sandwich](http://www.racistsandwich.com/) - food x race x class x gender
+* [Code Switch](http://www.npr.org/sections/codeswitch/) - race and identity (and how we're def not post-racial)
+* [Ear Hustle](https://www.earhustlesq.com/) - stories of life inside prison
+* [Baby Geniuses](http://www.maximumfun.org/shows/baby-geniuses) - funny conversations between two friends (comic artist + comedian)
 * [Recent This American Life episode on race/integration](https://www.thisamericanlife.org/radio-archives/episode/625/essay-b) - "In 1967, the first two black students were enrolled at an all-white private boarding school in Virginia. The main reason they were there? To benefit the white kids."
