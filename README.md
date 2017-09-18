@@ -77,6 +77,9 @@ Morehshin Allahyari and Daniel Rourke
 
 ## Week 3 - Art, design, and activism
 * Tuesday, September 26, 10am
+Readings Due (post one paragraph response on class website)
+[On Art Activism] (http://www.e-flux.com/journal/56/60343/on-art-activism/) 
+
 
 ## Week 4 - Poetry, language, and memory
 * Tuesday, October 3, 10am
