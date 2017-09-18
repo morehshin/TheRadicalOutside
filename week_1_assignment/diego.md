@@ -1,8 +1,9 @@
-It’s interested how we can think that everything around us, every tool, every development has been created without a political interested behind. That everything was created by a human for serve in a positive way to other humans. 
-It’s interesting to think that way and also naive. When you think it deeply, you realized that almost everything has a political idea/interest. 
+It’s interesting how we can think that everything around us, every tool, every development has been created without a political goal behind. That everything was created by humans for serve in a positive way to other humans. 
+It’s almost logical to think that way and it's also naive. When you think it deeply, you realized that almost everything has a political idea/interest. 
 It’s scary to think it that way.
 
 Technology has no positive or negative “intentions”, it’s the context, the organizations, the group surrounding the tech that can used it with certain interest. Economics, profit, racial, social.
+"What matters is not technology itself, but the social or economic system in which it is embedded."
 
 The example of Robert Moses, building those bridges with a racial interest behind, make me think of a few big examples in chile. 
 Like the big educational system in my country was build systematically thinking of social and economic segregation, keeping the rich people with the rich, the poorest with the poorest. That way the breach for people been successful grows bigger and bigger.
