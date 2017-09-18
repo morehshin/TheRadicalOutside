@@ -78,7 +78,8 @@ Morehshin Allahyari and Daniel Rourke
 ## Week 3 - Art, design, and activism
 * Tuesday, September 26, 10am
 
-test
+* Readings Due (post one paragraph response in the directory named week_3_assignment/)
+[On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
 
 ## Week 4 - Poetry, language, and memory
 * Tuesday, October 3, 10am
