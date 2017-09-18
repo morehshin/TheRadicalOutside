@@ -25,3 +25,4 @@
 * [Code Switch](http://www.npr.org/sections/codeswitch/) - race and identity (and how we're def not post-racial)
 * [Ear Hustle](https://www.earhustlesq.com/) - stories of life inside prison
 * [Baby Geniuses](http://www.maximumfun.org/shows/baby-geniuses) - funny conversations between two friends (comic artist + comedian)
+* [Recent This American Life episode on race/integration](https://www.thisamericanlife.org/radio-archives/episode/625/essay-b) - "In 1967, the first two black students were enrolled at an all-white private boarding school in Virginia. The main reason they were there? To benefit the white kids."
