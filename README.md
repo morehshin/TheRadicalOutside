@@ -49,9 +49,9 @@ Introduction by Melanie Hoff: Melanie will talk about her work and current resea
 **In Class**
 Morehshin: Introduction to Singularities and Futures
 
-Presentation by Matthew Ortega
-**[Matthew's Presentation slides](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_mattheortega.pdf)**
-**[Matthew's Presentation notes](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_matthewortega.md)**
+Presentation by Matthew Ortega   
+**[Matthew's Presentation slides](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_mattheortega.pdf)**   
+**[Matthew's Presentation notes](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_matthewortega.md)**  
 
 1-[A Brief History of Women in Computing by Faruk Ateş](https://hackernoon.com/@kurafire?source=post_header_lockup) 
 +
