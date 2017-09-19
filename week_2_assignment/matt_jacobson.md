@@ -1,0 +1,3 @@
+Do Artifacts Have Politics? 
+
+Are social determinism and technological determinism so incompatible? There is no doubt in my mind that the characteristics of a technology can influence the way it is used by society. However I would not go as far to say that the society in which a technology is developed can have no influence on the characteristics of the technology. I see no inconsistencies in acknowledging inherent characteristics and their consequences while also recognizing the ability of society to respond and react. Technological determinism is an oversimplification of sociological phenomena in the same way that social determinism "suggests that technical things do not matter at all." Technology can change society just as society can change technology.
