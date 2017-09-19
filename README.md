@@ -81,27 +81,68 @@ Morehshin Allahyari and Daniel Rourke
 * Readings Due (post one paragraph response in the directory named week_3_assignment/)
 [On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
 
+Presentation by
+
+1- Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0)
+[The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) 
+
+2- We Wanted a Revolution and Beyond: 
+
+3- The Middle-East: [Archiving a Revolution in the Digital Age, Archiving as an Act of Resistance by Lara Baladi](http://www.ibraaz.org/essays/163/)
+[Disobedient Objects by Catherine Flood, Gavin Grindon](
+
+**Additional Resources:** 
+
+[Steve Lambert at Eyeo 2017- Pro Bono Mercenary for Justice](https://vimeo.com/232656878)
+[Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
+
+
+
 ## Week 4 - Poetry, language, and memory
 * Tuesday, October 3, 10am
+
+1-
+
+2-
+
+3-
 
 ## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf Futurism)
 Guest Speaker
 * Tuesday, October 10, 10am
+
+1-
+
+2-
 	
-## Week 6 - Digital Colonialism 
+## Week 6 - Privacy and Surveillance
+Guest Speaker
 * Tuesday, October 17, 10am
 
-Presentation by Heather Moore 
+1-
 
-## Week 7 - Privacy and Surveillance
-Guest Speaker
+2-
+
+Presentation by Wei He 
+
+## Week 7 -  Digital Colonialism 
+
 * Tuesday, October 24, 10am 
 
-Presentation by Wei He
+1- Presentation by Heather Moore 
 
+2-
+
+3-
 
 ## Week 8: Manifestos for the Internet Age 
 * Tuesday, November 1, 10am
+
+1-
+
+2-
+
+3-
 
 ## Week 9 - Podcast Audio-Finalizing Session 
 * Tuesday, November 7, 10am
