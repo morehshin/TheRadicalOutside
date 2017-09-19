@@ -27,3 +27,6 @@
 * [Baby Geniuses](http://www.maximumfun.org/shows/baby-geniuses) - funny conversations between two friends (comic artist + comedian)
 * [Recent This American Life episode on race/integration](https://www.thisamericanlife.org/radio-archives/episode/625/essay-b) - "In 1967, the first two black students were enrolled at an all-white private boarding school in Virginia. The main reason they were there? To benefit the white kids."
 * [Queery](http://www.feralaudio.com/show/queery/) - Conversations with comedians/artists on growing up LGBTQ, queerness. Good one with Jill Soloway (Transparent)
+* [Showcase by NPR](https://www.radiotopia.fm/podcasts/showcase) - Experimental podcast exploring short form audio narratives
+* [Organist](https://www.kcrw.com/news-culture/shows/the-organist)
+* 
