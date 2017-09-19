@@ -110,6 +110,7 @@ Presentation by *Fernando*
 ## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf Futurism)
 Guest Speaker
 * Tuesday, October 10, 10am
+ann
 
 1- Presentation by Qiao Lin
 
