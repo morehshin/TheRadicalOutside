@@ -101,7 +101,7 @@ Presentation by
 ## Week 4 - Poetry, language, and memory
 * Tuesday, October 3, 10am
 
-1-
+1- Guillermo Montecinos (talk about memory)
 
 2-
 
