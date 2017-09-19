@@ -2,7 +2,7 @@
 
 I’m sorry I could not finish reading.
 
-##### Artifacts which I think they have politics
+#### Artifacts which I think they have politics
  - anti-homeless architecture
  - controlled internet?
 
