@@ -29,4 +29,4 @@
 * [Queery](http://www.feralaudio.com/show/queery/) - Conversations with comedians/artists on growing up LGBTQ, queerness. Good one with Jill Soloway (Transparent)
 * [Showcase by NPR](https://www.radiotopia.fm/podcasts/showcase) - Experimental podcast exploring short form audio narratives
 * [Organist](https://www.kcrw.com/news-culture/shows/the-organist)
-* 
+* Revolutionaries - https://goo.gl/t93dfM - From the Computer History Museum. Conversations with tech innovators. These are YouTube videos, but I've only ever heard them as radio broadcasts.
