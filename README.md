@@ -56,6 +56,7 @@ Presentation by Matthew Ortega
 BBC documentary : [Calculating Ada - The Countess of Computing 2015](https://www.youtube.com/watch?v=QgUVrzkQgds)
 
 Presentation by Amit Runchal
+[Amit's Presentation](https://docs.google.com/presentation/d/1L0qeJNHDEDyp-A15VY7yOtFFSgaeBwlGaltZtE3610o/edit#slide=id.g2562f103b4_0_236)
  
 2- [The Californian Ideology by Richard Barbrook and Andy Cameron](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/) 
 +
