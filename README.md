@@ -82,7 +82,6 @@ Morehshin Allahyari and Daniel Rourke
 * Readings Due (post one paragraph response in the directory named week_3_assignment/)
 [On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
 
-Presentation by *Fernando*
 
 1- Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0)
 [The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) - Presentation by **Fernando**
@@ -103,43 +102,42 @@ Presentation by *Fernando*
 
 1- Guillermo Montecinos (talk about memory)
 
-2-
+2- Stacy
 
-3-
+3- Colin (down for whatever)
 
 ## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf Futurism)
 Guest Speaker
 * Tuesday, October 10, 10am
-ann
 
-1- Presentation by Qiao Lin
+1-Ann (feminism)
 
-2-
+2- Qiao (Gulf)
 	
 ## Week 6 - Privacy and Surveillance
 Guest Speaker
 * Tuesday, October 17, 10am
 
-1-
+1- Diego
 
-2-
+2- Kaitlin
 
-Presentation by Wei He 
-
+3- Presentation by Wei He (surveilliance)
+ 
 ## Week 7 -  Digital Colonialism 
 
 * Tuesday, October 24, 10am 
 
 1- Presentation by Heather Moore 
 
-2-
+2- Hyojin 
 
 3-
 
 ## Week 8: Manifestos for the Internet Age 
 * Tuesday, November 1, 10am
 
-1-
+1- Yumi
 
 2-
 
