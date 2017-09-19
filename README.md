@@ -86,15 +86,14 @@ Presentation by
 1- Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0)
 [The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) 
 
-2- We Wanted a Revolution and Beyond: 
+2- [Disobedient Objects by Catherine Flood, Gavin Grindon](https://www.amazon.com/Disobedient-Objects-Catherine-Flood/dp/1851777970) 
 
 3- The Middle-East: [Archiving a Revolution in the Digital Age, Archiving as an Act of Resistance by Lara Baladi](http://www.ibraaz.org/essays/163/)
-[Disobedient Objects by Catherine Flood, Gavin Grindon](
+[Abolish Borders as Revolutionary Futurity By Carlos Jackson](http://www.artpractical.com/feature/abolish-borders-as-revolutionary-futurity/)
 
 **Additional Resources:** 
-
-[Steve Lambert at Eyeo 2017- Pro Bono Mercenary for Justice](https://vimeo.com/232656878)
 [Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
+[Steve Lambert at Eyeo 2017- Pro Bono Mercenary for Justice](https://vimeo.com/232656878)
 
 
 
