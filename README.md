@@ -122,7 +122,7 @@ Guest Speaker
 
 2- Kaitlin
 
-3- Presentation by Wei He (surveilliance)
+3- 
  
 ## Week 7 -  Digital Colonialism 
 
@@ -139,7 +139,7 @@ Guest Speaker
 
 1- Yumi
 
-2-
+2- Wei
 
 3-
 
