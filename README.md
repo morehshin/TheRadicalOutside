@@ -30,6 +30,7 @@ Best policy for laptop use: guidelines
 Schedule (Please keep an eye on the schedule in this document every week). This is under construction and will be changed throughout the course. Please feel free to give feedback.
 
 <br>
+
 ## Week 1 - Introduction to Critical Thinking and Re-Figuring 
 **Tuesday, September 12, 10am**
 
@@ -78,6 +79,7 @@ Morehshin Allahyari and Daniel Rourke
 
 
 <br>
+
 ## Week 3 - Art, design, and activism
 **Tuesday, September 26, 10am**
 
@@ -103,6 +105,7 @@ Morehshin Allahyari and Daniel Rourke
 
 
 <br>
+
 ## Week 4 - Poetry, language, and memory
 **Tuesday, October 3, 10am**
 
@@ -123,6 +126,7 @@ Morehshin Allahyari and Daniel Rourke
 2. Qiao (Gulf)
 
 <br>
+
 ## Week 6 - Privacy and Surveillance
 **Tuesday, October 17, 10am**
 
@@ -137,6 +141,7 @@ Sarah is a data activist, operational security trainer, and programmer. Her work
 3. 
  
 <br>
+
 ## Week 7 -  Digital Colonialism 
 **Tuesday, October 24, 10am**
 
@@ -147,6 +152,7 @@ Sarah is a data activist, operational security trainer, and programmer. Her work
 3. 
 
 <br>
+
 ## Week 8: Manifestos for the Internet Age 
 **Tuesday, November 1, 10am**
 
@@ -157,12 +163,14 @@ Sarah is a data activist, operational security trainer, and programmer. Her work
 3.
 
 <br>
+
 ## Week 9 - Podcast Audio-Finalizing Session 
 **Tuesday, November 7, 10am**
 
 In class session for Editing the audio for the podcast. Finalizing ideas for Listening Room installation.
 
 <br>
+
 ## Week 10 - Final Class
 **Tuesday, November 14, 10am**
 
