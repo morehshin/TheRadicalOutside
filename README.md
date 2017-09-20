@@ -92,8 +92,10 @@ Morehshin Allahyari and Daniel Rourke
 [Abolish Borders as Revolutionary Futurity By Carlos Jackson](http://www.artpractical.com/feature/abolish-borders-as-revolutionary-futurity/) - Presentation by **Ying Quan Tan**
 
 **Additional Resources:** 
-[Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
-[Steve Lambert at Eyeo 2017- Pro Bono Mercenary for Justice](https://vimeo.com/232656878)
+* [Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
+* [Steve Lambert at Eyeo 2017- Pro Bono Mercenary for Justice](https://vimeo.com/232656878)
+* [Syllabus for White People to Educate Themselves](https://docs.google.com/document/d/1By9bUjJ78snEeZuLXNGBdlVMJgEQWMEjR-Gfx8ER7Iw/mobilebasic#heading=h.bi12zdslqy3z)
+* [Charlottesville Syllabus - History of white supremacy in Charlottesville, VA](https://medium.com/@UVAGSC/the-charlottesville-syllabus-9e01573419d0)
 
 
 
