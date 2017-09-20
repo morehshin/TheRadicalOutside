@@ -29,8 +29,9 @@ Best policy for laptop use: guidelines
 
 Schedule (Please keep an eye on the schedule in this document every week). This is under construction and will be changed throughout the course. Please feel free to give feedback.
 
+<br>
 ## Week 1 - Introduction to Critical Thinking and Re-Figuring 
-* Tuesday, September 12, 10am
+**Tuesday, September 12, 10am**
 
 **In Class** 
   
@@ -39,10 +40,11 @@ What is critical thinking? Introduction to students
 How can this be applied to technology? In class we'll watch “All Watched Over by Machines of Love and Grace” and discuss the goals for the class.
 Introduction by Melanie Hoff: Melanie will talk about her work and current research around algorithms as ubiquitous, underlying systems of behavioral regulation as well as the need to ethically regulate algorithms themselves. 
 
-
+<br>
 
 ## Week 2 - Who owns what history? On Singularities, Silicon Valley, and Futures (Plural)
-* Tuesday, September 19, 10am
+**Tuesday, September 19, 10am**
+
 * Readings Due (post one paragraph response in the directory named week_2_assignment/)
 [Do Artifacts Have Politics? Author(s): Langdon Winner](https://transitiontech.ca/pdf/Winner-Do-Artifacts-Have-Politics-1980.pdf)
 
@@ -75,9 +77,9 @@ Morehshin: Introduction to Singularities and Futures
 Morehshin Allahyari and Daniel Rourke 
 
 
-
+<br>
 ## Week 3 - Art, design, and activism
-* Tuesday, September 26, 10am
+**Tuesday, September 26, 10am**
 
 * Readings Due (post one paragraph response in the directory named week_3_assignment/)
 [On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
@@ -100,9 +102,9 @@ Morehshin Allahyari and Daniel Rourke
 
 
 
-
+<br>
 ## Week 4 - Poetry, language, and memory
-* Tuesday, October 3, 10am
+**Tuesday, October 3, 10am**
 
 1. Guillermo Montecinos (talk about memory)
 
@@ -110,17 +112,19 @@ Morehshin Allahyari and Daniel Rourke
 
 3. Colin (down for whatever)
 
+<br>
 ## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf Futurism)
-* Tuesday, October 10, 10am
+**Tuesday, October 10, 10am**
 
 **Guest Speaker: Salome Asega**
 
 1. Ann (feminism)
 
 2. Qiao (Gulf)
-	
+
+<br>
 ## Week 6 - Privacy and Surveillance
-* Tuesday, October 17, 10am
+**Tuesday, October 17, 10am**
 
 **Guest Speaker: Sarah Aoun**
 Sarah is a data activist, operational security trainer, and programmer. Her work lies at the intersection of tech, human rights, and transformative justice. She’s collaborated with activists, journalists, grassroots social movements, and NGOs in the US and MENA region on digital security, ethical data & privacy, and data-driven storytelling. Sarah grew up in Lebanon and holds a B.A. in International Relations from Brown University.
@@ -132,9 +136,9 @@ Sarah is a data activist, operational security trainer, and programmer. Her work
 
 3. 
  
+<br>
 ## Week 7 -  Digital Colonialism 
-
-* Tuesday, October 24, 10am 
+**Tuesday, October 24, 10am**
 
 1. Presentation by Heather Moore 
 
@@ -142,8 +146,9 @@ Sarah is a data activist, operational security trainer, and programmer. Her work
 
 3. 
 
+<br>
 ## Week 8: Manifestos for the Internet Age 
-* Tuesday, November 1, 10am
+**Tuesday, November 1, 10am**
 
 1. Yumi
 
@@ -151,11 +156,15 @@ Sarah is a data activist, operational security trainer, and programmer. Her work
 
 3.
 
+<br>
 ## Week 9 - Podcast Audio-Finalizing Session 
-* Tuesday, November 7, 10am
+**Tuesday, November 7, 10am**
+
 In class session for Editing the audio for the podcast. Finalizing ideas for Listening Room installation.
 
+<br>
 ## Week 10 - Final Class
-* Tuesday, November 14, 10am
+**Tuesday, November 14, 10am**
+
 FEEDBACK WEEK
 
