@@ -49,20 +49,17 @@ Introduction by Melanie Hoff: Melanie will talk about her work and current resea
 **In Class**
 Morehshin: Introduction to Singularities and Futures
 
-Presentation by Matthew Ortega  
-[Matthew's slides](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_mattheortega.pdf)
-[Matthew's Notes](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_matthewortega.md)
+**Presentation by Matthew Ortega** 
+* [Matthew's slides](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_mattheortega.pdf) + [Matthew's Notes](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_matthewortega.md)
 
 1. [A Brief History of Women in Computing by Faruk Ateş](https://hackernoon.com/@kurafire?source=post_header_lockup) 
-+
-BBC documentary : [Calculating Ada - The Countess of Computing 2015](https://www.youtube.com/watch?v=QgUVrzkQgds)
+2. BBC documentary : [Calculating Ada - The Countess of Computing 2015](https://www.youtube.com/watch?v=QgUVrzkQgds)
 
-Presentation by Amit Runchal -- 
-[Amit's Presentation Slides](https://docs.google.com/presentation/d/1L0qeJNHDEDyp-A15VY7yOtFFSgaeBwlGaltZtE3610o/edit#slide=id.g2562f103b4_0_236)
+**Presentation by Amit Runchal**
+* [Amit's Presentation Slides](https://docs.google.com/presentation/d/1L0qeJNHDEDyp-A15VY7yOtFFSgaeBwlGaltZtE3610o/edit#slide=id.g2562f103b4_0_236)
  
-2. [The Californian Ideology by Richard Barbrook and Andy Cameron](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/) 
-+
-[Technology, the Faux Equalizer by Adrienne Lafrance](https://www.theatlantic.com/technology/archive/2016/03/half-full-tech/476025/)
+1. [The Californian Ideology by Richard Barbrook and Andy Cameron](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/) 
+2. [Technology, the Faux Equalizer by Adrienne Lafrance](https://www.theatlantic.com/technology/archive/2016/03/half-full-tech/476025/)
 
 
 
@@ -86,13 +83,14 @@ Morehshin Allahyari and Daniel Rourke
 [On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
 
 
-1- Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0)
+1. Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0)
 [The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) - Presentation by **Fernando**
 
-2- [Disobedient Objects by Catherine Flood, Gavin Grindon](https://www.amazon.com/Disobedient-Objects-Catherine-Flood/dp/1851777970) - Presentation by **April**
+2. [Disobedient Objects by Catherine Flood, Gavin Grindon](https://www.amazon.com/Disobedient-Objects-Catherine-Flood/dp/1851777970) - Presentation by **April**
 
-3- The Middle-East: [Archiving a Revolution in the Digital Age, Archiving as an Act of Resistance by Lara Baladi](http://www.ibraaz.org/essays/163/)
+3. The Middle-East: [Archiving a Revolution in the Digital Age, Archiving as an Act of Resistance by Lara Baladi](http://www.ibraaz.org/essays/163/)
 [Abolish Borders as Revolutionary Futurity By Carlos Jackson](http://www.artpractical.com/feature/abolish-borders-as-revolutionary-futurity/) - Presentation by **Ying Quan Tan**
+
 
 **Additional Resources:** 
 * [Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
@@ -106,19 +104,20 @@ Morehshin Allahyari and Daniel Rourke
 ## Week 4 - Poetry, language, and memory
 * Tuesday, October 3, 10am
 
-1- Guillermo Montecinos (talk about memory)
+1. Guillermo Montecinos (talk about memory)
 
-2- Stacy
+2. Stacy
 
-3- Colin (down for whatever)
+3. Colin (down for whatever)
 
 ## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf Futurism)
 * Tuesday, October 10, 10am
 
 **Guest Speaker: Salome Asega**
-1-Ann (feminism)
 
-2- Qiao (Gulf)
+1. Ann (feminism)
+
+2. Qiao (Gulf)
 	
 ## Week 6 - Privacy and Surveillance
 * Tuesday, October 17, 10am
@@ -127,30 +126,30 @@ Morehshin Allahyari and Daniel Rourke
 Sarah is a data activist, operational security trainer, and programmer. Her work lies at the intersection of tech, human rights, and transformative justice. She’s collaborated with activists, journalists, grassroots social movements, and NGOs in the US and MENA region on digital security, ethical data & privacy, and data-driven storytelling. Sarah grew up in Lebanon and holds a B.A. in International Relations from Brown University.
 
 
-1- Diego
+1. Diego
 
-2- Kaitlin
+2. Kaitlin
 
-3- 
+3. 
  
 ## Week 7 -  Digital Colonialism 
 
 * Tuesday, October 24, 10am 
 
-1- Presentation by Heather Moore 
+1. Presentation by Heather Moore 
 
-2- Hyojin 
+2. Hyojin 
 
-3-
+3. 
 
 ## Week 8: Manifestos for the Internet Age 
 * Tuesday, November 1, 10am
 
-1- Yumi
+1. Yumi
 
-2- Wei
+2. Wei
 
-3-
+3.
 
 ## Week 9 - Podcast Audio-Finalizing Session 
 * Tuesday, November 7, 10am
