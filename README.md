@@ -86,6 +86,8 @@ Morehshin Allahyari and Daniel Rourke
 * Readings Due (post one paragraph response in the directory named week_3_assignment/)
 [On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
 
+**Student Presentation**
+* Upload your presentations to [student\_presentations/](https://github.com/morehshin/TheRadicalOutside/tree/master/student_presentations)
 
 1. Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0)
 [The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) - Presentation by **Fernando**
