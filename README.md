@@ -49,31 +49,34 @@ Introduction by Melanie Hoff: Melanie will talk about her work and current resea
 **In Class**
 Morehshin: Introduction to Singularities and Futures
 
-Presentation by Matthew Ortega
+Presentation by Matthew Ortega  
+[Matthew's slides](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_mattheortega.pdf)
+[Matthew's Notes](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_matthewortega.md)
 
-1-[A Brief History of Women in Computing by Faruk Ateş](https://hackernoon.com/@kurafire?source=post_header_lockup) 
+1. [A Brief History of Women in Computing by Faruk Ateş](https://hackernoon.com/@kurafire?source=post_header_lockup) 
 +
 BBC documentary : [Calculating Ada - The Countess of Computing 2015](https://www.youtube.com/watch?v=QgUVrzkQgds)
 
 Presentation by Amit Runchal -- 
 [Amit's Presentation Slides](https://docs.google.com/presentation/d/1L0qeJNHDEDyp-A15VY7yOtFFSgaeBwlGaltZtE3610o/edit#slide=id.g2562f103b4_0_236)
  
-2- [The Californian Ideology by Richard Barbrook and Andy Cameron](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/) 
+2. [The Californian Ideology by Richard Barbrook and Andy Cameron](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/) 
 +
 [Technology, the Faux Equalizer by Adrienne Lafrance](https://www.theatlantic.com/technology/archive/2016/03/half-full-tech/476025/)
 
 
 
 **Additional Resources:** 
-1-  [Close to the Machine: Technophilia and Its Discontents by Ellen Ullman](https://www.amazon.com/Close-Machine-Technophilia-Its-Discontents-ebook/dp/B007FU83DY/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1473648550&sr=1-1&keywords=close+to+the+machine&linkCode=sl1&tag=sarmarwat-20&linkId=cbce746b642771beb48bc3bdfc61d968)  
-2- [“The Singularity is dear” - the Cybertwee Manifesto](http://fnewsmagazine.com/2015/04/the-singularity-is-dear/)
-3- [Vernor Vinge singularity](http://longnow.org/essays/singularity/)
-4- [Her - white singularity](http://mashable.com/2014/01/15/her-singularity/#_kGjMyE8_sqG) 
+* [Close to the Machine: Technophilia and Its Discontents by Ellen Ullman](https://www.amazon.com/Close-Machine-Technophilia-Its-Discontents-ebook/dp/B007FU83DY/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1473648550&sr=1-1&keywords=close+to+the+machine&linkCode=sl1&tag=sarmarwat-20&linkId=cbce746b642771beb48bc3bdfc61d968)  
+* [“The Singularity is dear” - the Cybertwee Manifesto](http://fnewsmagazine.com/2015/04/the-singularity-is-dear/)
+* [Vernor Vinge singularity](http://longnow.org/essays/singularity/)
+* [Her - white singularity](http://mashable.com/2014/01/15/her-singularity/#_kGjMyE8_sqG) 
 
  
 	
 “A singularity is a point in space-time of such unfathomable density that the very nature of reality is brought into question. Associated with elusive black holes and the alien particles that bubble up from quantum foam at their event horizon, the term ‘singularity’ has also been co-opted by cultural theorists and techno-utopianists to describe moments of profound social, ontological, or material transformation—the coming-into-being of new worlds that redefine their own origins. By reflecting on Afrofuturism and digital colonialism, they will also question narcissistic singularities of ‘I,’ ‘here,’ and ‘now’, counter the rhetoric of technological utopias, and confound principles of human universality.”
 Morehshin Allahyari and Daniel Rourke 
+
 
 
 ## Week 3 - Art, design, and activism
@@ -96,6 +99,7 @@ Morehshin Allahyari and Daniel Rourke
 * [Steve Lambert at Eyeo 2017- Pro Bono Mercenary for Justice](https://vimeo.com/232656878)
 * [Syllabus for White People to Educate Themselves](https://docs.google.com/document/d/1By9bUjJ78snEeZuLXNGBdlVMJgEQWMEjR-Gfx8ER7Iw/mobilebasic#heading=h.bi12zdslqy3z)
 * [Charlottesville Syllabus - History of white supremacy in Charlottesville, VA](https://medium.com/@UVAGSC/the-charlottesville-syllabus-9e01573419d0)
+
 
 
 
