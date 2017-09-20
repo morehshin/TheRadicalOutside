@@ -118,6 +118,7 @@ Morehshin Allahyari and Daniel Rourke
 3. Colin (down for whatever)
 
 <br>
+
 ## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf Futurism)
 **Tuesday, October 10, 10am**
 
