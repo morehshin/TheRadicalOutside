@@ -49,16 +49,14 @@ Introduction by Melanie Hoff: Melanie will talk about her work and current resea
 **In Class**
 Morehshin: Introduction to Singularities and Futures
 
-Presentation by Matthew Ortega   
-**[Matthew's Presentation slides](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_mattheortega.pdf)** +
-**[Matthew's Presentation notes](https://github.com/morehshin/TheRadicalOutside/blob/master/student_presentations/a-brief-history-of-woman-computing_matthewortega.md)**  
+Presentation by Matthew Ortega
 
 1-[A Brief History of Women in Computing by Faruk Ateş](https://hackernoon.com/@kurafire?source=post_header_lockup) 
 +
 BBC documentary : [Calculating Ada - The Countess of Computing 2015](https://www.youtube.com/watch?v=QgUVrzkQgds)
 
-Presentation by Amit Runchal   
-**[Amit's Presentation Slides](https://docs.google.com/presentation/d/1L0qeJNHDEDyp-A15VY7yOtFFSgaeBwlGaltZtE3610o/edit#slide=id.g2562f103b4_0_236)**
+Presentation by Amit Runchal -- 
+[Amit's Presentation Slides](https://docs.google.com/presentation/d/1L0qeJNHDEDyp-A15VY7yOtFFSgaeBwlGaltZtE3610o/edit#slide=id.g2562f103b4_0_236)
  
 2- [The Californian Ideology by Richard Barbrook and Andy Cameron](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/) 
 +
@@ -109,16 +107,19 @@ Morehshin Allahyari and Daniel Rourke
 3- Colin (down for whatever)
 
 ## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf Futurism)
-Guest Speaker
 * Tuesday, October 10, 10am
 
+**Guest Speaker: Salome Asega**
 1-Ann (feminism)
 
 2- Qiao (Gulf)
 	
 ## Week 6 - Privacy and Surveillance
-Guest Speaker
 * Tuesday, October 17, 10am
+
+**Guest Speaker: Sarah Aoun**
+Sarah is a data activist, operational security trainer, and programmer. Her work lies at the intersection of tech, human rights, and transformative justice. She’s collaborated with activists, journalists, grassroots social movements, and NGOs in the US and MENA region on digital security, ethical data & privacy, and data-driven storytelling. Sarah grew up in Lebanon and holds a B.A. in International Relations from Brown University.
+
 
 1- Diego
 
