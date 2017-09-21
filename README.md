@@ -141,7 +141,7 @@ Sarah is a data activist, operational security trainer, and programmer. Her work
 
 2. Kaitlin
 
-3. 
+3. Matt Jacobson
  
 <br>
 
