@@ -16,7 +16,7 @@ This is a theory course for critical thinking of technology through the lens of 
 
 **Expectations and Structure**
 
-* Each week, two students from the class will present that week's readings. We will focus on one historical and one contemporary reading.
+* Each week, two or three students from the class will present that week's readings. We will focus on one historical and one contemporary reading.
 * Read all the material and come prepared to discuss it in depth. Please bring other resources, authors and artists that you find relevant. Please see here for [presentation guidelines](https://docs.google.com/document/d/1HtTwy6yakti5TaYL_oq0sgZo-mZSv_RGKruh3tff1m0/edit?usp=sharing). 
 * Blog weekly about the readings and your thoughts. Think critically and post something that questions, criticizes, endorses, and/or adds to the reading or find other related material or resources that can juxtapose or compare the reading to something else you find relevant. 
 * Participation in class discussions for readings, material that we watch in class, giving feedback to your peers is essential. 
@@ -146,8 +146,11 @@ Salome Asega is an artist and researcher. She is the co-host of speculative talk
 
 
 1. Ann (feminism)
+[A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) 
+[Selfcare as Warfare by Sara Ahmed](https://feministkilljoys.com/2014/08/25/selfcare-as-warfare/)
 
 2. Qiao (Gulf)
+
 
 <br>
 
