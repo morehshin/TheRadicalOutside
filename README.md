@@ -143,11 +143,12 @@ Morehshin Allahyari and Daniel Rourke
 ## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf-Futurism)
 **Tuesday, October 10, 10am**
 
-Readings Due:
-Drexciya, The Quest (1997) https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk 
+* Readings Due (post one paragraph response in the directory named week_5_assignment/)
+[Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
+[Drexciya, The Quest (1997)](https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk)  
+
 **Guest Speaker: Salome Asega**
 Bio:
-
 Salome Asega is an artist and researcher. She is the co-host of speculative talk show Hyperopia: 20/30 Vision on bel-air radio and the Assistant Director of POWRPLNT, a digital art collaboratory. Salome has participated in residencies and fellowships at Eyebeam, New Museum, and the Laundromat Project, and has given presentations at New Inc, Performa, Eyeo, and Gather Festival. Salome teaches in the MFA Design and Technology program at Parsons at The New School and is a Technology Fellow at the Ford Foundation. 
 
 
