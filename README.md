@@ -89,13 +89,16 @@ Morehshin Allahyari and Daniel Rourke
 **Student Presentation**
 * Upload your presentations to [student\_presentations/](https://github.com/morehshin/TheRadicalOutside/tree/master/student_presentations)
 
-1. Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0), 
-[The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) - Presentation by **Fernando**
+1. Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0) <br>
+[The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) <br> 
+Presentation by **Fernando**
 
-2. [Disobedient Objects by Catherine Flood, Gavin Grindon](https://www.amazon.com/Disobedient-Objects-Catherine-Flood/dp/1851777970) - Presentation by **April**
+2. [Disobedient Objects by Catherine Flood, Gavin Grindon](https://www.amazon.com/Disobedient-Objects-Catherine-Flood/dp/1851777970) <br>
+Presentation by **April**
 
-3. The Middle-East: [Archiving a Revolution in the Digital Age, Archiving as an Act of Resistance by Lara Baladi](http://www.ibraaz.org/essays/163/), 
-[Abolish Borders as Revolutionary Futurity By Carlos Jackson](http://www.artpractical.com/feature/abolish-borders-as-revolutionary-futurity/) - Presentation by **Ying Quan Tan**
+3. The Middle-East: [Archiving a Revolution in the Digital Age, Archiving as an Act of Resistance by Lara Baladi](http://www.ibraaz.org/essays/163/) <br>
+[Abolish Borders as Revolutionary Futurity By Carlos Jackson](http://www.artpractical.com/feature/abolish-borders-as-revolutionary-futurity/) <br>
+Presentation by **Ying Quan Tan** 
 
 
 **Additional Resources:** 
@@ -114,7 +117,8 @@ Morehshin Allahyari and Daniel Rourke
 * Readings Due (post one paragraph response in the directory named week_4_assignment/)
 [The Enduring Ephemeral, or the Future Is a Memory Wendy Hui Kyong Chun](https://www.dropbox.com/s/91p6u4446xd7gy3/Hui%20Kyong%20Chun--the_enduring_ephemeral_or.pdf?dl=0)  
  
-1. Guillermo Montecinos (talk about memory + archiving + Wikipedia?)
+1. (talk about memory + archiving + Wikipedia?) <br>
+**Presentation by Guillermo Montecinos**
 
 
 2. Speaking in Net Language and Beyond <br>
@@ -126,7 +130,7 @@ Morehshin Allahyari and Daniel Rourke
 [Forgetting the Internet](http://rhizome.org/editorial/2014/jul/08/forgetting/) <br>
 **Presentation by Colin**
 
-
+<br>
 + In Class Writing Excercise
 
 
@@ -137,14 +141,14 @@ Morehshin Allahyari and Daniel Rourke
 
 Readings Due:
 Drexciya, The Quest (1997) https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk 
-**Guest Speaker: Salome Asega**
+**Guest Speaker: Salome Asega** <br>
 Bio:
 
 Salome Asega is an artist and researcher. She is the co-host of speculative talk show Hyperopia: 20/30 Vision on bel-air radio and the Assistant Director of POWRPLNT, a digital art collaboratory. Salome has participated in residencies and fellowships at Eyebeam, New Museum, and the Laundromat Project, and has given presentations at New Inc, Performa, Eyeo, and Gather Festival. Salome teaches in the MFA Design and Technology program at Parsons at The New School and is a Technology Fellow at the Ford Foundation. 
 
 
 1. Ann (feminism)
-[A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) 
+[A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) <br>
 [Selfcare as Warfare by Sara Ahmed](https://feministkilljoys.com/2014/08/25/selfcare-as-warfare/)
 
 2. Qiao (Gulf)
