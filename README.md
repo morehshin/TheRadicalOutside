@@ -16,7 +16,7 @@ This is a theory course for critical thinking of technology through the lens of 
 
 **Expectations and Structure**
 
-* Each week, two or three students from the class will present that week's readings. We will focus on one historical and one contemporary reading.
+* Each week, two or three students from the class will present that week's readings. We will focus on a combination of historical and contemporary text.
 * Read all the material and come prepared to discuss it in depth. Please bring other resources, authors and artists that you find relevant. Please see here for [presentation guidelines](https://docs.google.com/document/d/1HtTwy6yakti5TaYL_oq0sgZo-mZSv_RGKruh3tff1m0/edit?usp=sharing). 
 * Blog weekly about the readings and your thoughts. Think critically and post something that questions, criticizes, endorses, and/or adds to the reading or find other related material or resources that can juxtapose or compare the reading to something else you find relevant. 
 * Participation in class discussions for readings, material that we watch in class, giving feedback to your peers is essential. 
@@ -89,16 +89,13 @@ Morehshin Allahyari and Daniel Rourke
 **Student Presentation**
 * Upload your presentations to [student\_presentations/](https://github.com/morehshin/TheRadicalOutside/tree/master/student_presentations)
 
-1. Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0) <br>
-[The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) <br> 
-Presentation by **Fernando**
+1. Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0)
+[The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) - Presentation by **Fernando**
 
-2. [Disobedient Objects by Catherine Flood, Gavin Grindon](https://www.amazon.com/Disobedient-Objects-Catherine-Flood/dp/1851777970) <br>
-Presentation by **April**
+2. [Disobedient Objects by Catherine Flood, Gavin Grindon](https://www.amazon.com/Disobedient-Objects-Catherine-Flood/dp/1851777970) - Presentation by **April**
 
-3. The Middle-East: [Archiving a Revolution in the Digital Age, Archiving as an Act of Resistance by Lara Baladi](http://www.ibraaz.org/essays/163/) <br>
-[Abolish Borders as Revolutionary Futurity By Carlos Jackson](http://www.artpractical.com/feature/abolish-borders-as-revolutionary-futurity/) <br>
-Presentation by **Ying Quan Tan** 
+3. The Middle-East: [Archiving a Revolution in the Digital Age, Archiving as an Act of Resistance by Lara Baladi](http://www.ibraaz.org/essays/163/)
+[Abolish Borders as Revolutionary Futurity By Carlos Jackson](http://www.artpractical.com/feature/abolish-borders-as-revolutionary-futurity/) - Presentation by **Ying Quan Tan**
 
 
 **Additional Resources:** 
@@ -117,22 +114,29 @@ Presentation by **Ying Quan Tan**
 * Readings Due (post one paragraph response in the directory named week_4_assignment/)
 [The Enduring Ephemeral, or the Future Is a Memory Wendy Hui Kyong Chun](https://www.dropbox.com/s/91p6u4446xd7gy3/Hui%20Kyong%20Chun--the_enduring_ephemeral_or.pdf?dl=0)  
  
-1. (talk about memory + archiving + Wikipedia?) <br>
-**Presentation by Guillermo Montecinos**
+1. Guillermo Montecinos (talk about memory + archiving + Wikipedia?)
 
 
-2. Speaking in Net Language and Beyond <br>
-[My Boyfriend Came Back from the War](http://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/) <br>
+2. Media Archeology
 **Presentation by Stacy**
+[What is Media Archeology? by Jussi Parikka- Chapter 6 and 7](http://pages.uoregon.edu/koopman/courses_readings/colt607/parikka_what-is-media-archaeology.pdf)
 
-3. The Right to be forgotten and Remembered <br>
-[The Right to be forgotten by Google](https://en.wikipedia.org/wiki/Right_to_be_forgotten) <br>
-[Forgetting the Internet](http://rhizome.org/editorial/2014/jul/08/forgetting/) <br>
+3. The Right to be forgotten AND Remembered
 **Presentation by Colin**
 
-<br>
-+ In Class Writing Excercise
+[The Right to be forgotten by Google](https://en.wikipedia.org/wiki/Right_to_be_forgotten)
 
+[Forgetting the Internet](http://rhizome.org/editorial/2014/jul/08/forgetting/)
+
+[Facebook Filters And Safety Checks Are Not For People Of Color](https://thoughtcatalog.com/maya-richard-craven/2015/11/facebook-filters-and-safety-checks-are-not-for-people-of-color/)
+
+**Additional Resources:**  
+[The Salem Diamonds](http://www.jillmagid.com/projects/the-salem-diamonds) 
+[My Boyfriend Came Back from the War](http://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/) 
+[Collapse of PAL] (https://www.artsy.net/artwork/rosa-menkman-the-collapse-of-pal)
+[The Art of Forgettig](https://vimeo.com/117301484)
+
++ In Class Writing Excercise
 
 <br>
 
@@ -141,14 +145,14 @@ Presentation by **Ying Quan Tan**
 
 Readings Due:
 Drexciya, The Quest (1997) https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk 
-**Guest Speaker: Salome Asega** <br>
+**Guest Speaker: Salome Asega**
 Bio:
 
 Salome Asega is an artist and researcher. She is the co-host of speculative talk show Hyperopia: 20/30 Vision on bel-air radio and the Assistant Director of POWRPLNT, a digital art collaboratory. Salome has participated in residencies and fellowships at Eyebeam, New Museum, and the Laundromat Project, and has given presentations at New Inc, Performa, Eyeo, and Gather Festival. Salome teaches in the MFA Design and Technology program at Parsons at The New School and is a Technology Fellow at the Ford Foundation. 
 
 
 1. Ann (feminism)
-[A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) <br>
+[A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) 
 [Selfcare as Warfare by Sara Ahmed](https://feministkilljoys.com/2014/08/25/selfcare-as-warfare/)
 
 2. Qiao (Gulf)
