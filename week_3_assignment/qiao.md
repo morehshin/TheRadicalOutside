@@ -1,6 +1,6 @@
 ### Field Observations
 
-Art activism as a combination of two discipline is inheritally  on the fence of attacks for multiple fields.  Whether it’s construct of aestheticazation as weapon of the weaponization of aesthetics, brings to light the practical & functional as objects of contemplation.  Boris draws a nice parallel to the museum as cemetery for art, or rather a storage room of cultural values to be put away — obsolete.  Thinking of museum goers as grave visitor intended to gain culture without remorse, as observers of human debris of constant reminder of chapters of ideology set in stone.  **All that is solid melts into air**  >> all that is air gels into past, sticks on those white walls in mausoleums. 
+Art activism as a combination of two discipline is inheritally  on the fence of attacks for multiple fields.  Whether it’s construct of aestheticazation as weapon of the weaponization of aesthetics, brings to light the practical & functional as objects of contemplation.  Boris draws a nice parallel to the museum as cemetery for art, or rather a storage room of cultural values to be put away — obsolete.  Thinking of museum goers as grave visitor intended to gain culture without remorse, as observers of human debris of constant reminder of chapters of ideology set in stone.  **All that is solid melts into air**  >> all that is air gels into paste, sticks on those white walls in mausoleums. 
 
 ### Fragments that resonated: 
 
