@@ -123,18 +123,16 @@ Morehshin Allahyari and Daniel Rourke
 
 3. The Right to be forgotten AND Remembered
 **Presentation by Colin**
-
-[The Right to be forgotten by Google](https://en.wikipedia.org/wiki/Right_to_be_forgotten)
-
-[Forgetting the Internet](http://rhizome.org/editorial/2014/jul/08/forgetting/)
-
-[Facebook Filters And Safety Checks Are Not For People Of Color](https://thoughtcatalog.com/maya-richard-craven/2015/11/facebook-filters-and-safety-checks-are-not-for-people-of-color/)
+[The Right to be forgotten by Google](https://en.wikipedia.org/wiki/Right_to_be_forgotten)<br>
+[Forgetting the Internet](http://rhizome.org/editorial/2014/jul/08/forgetting/)<br>
+[Facebook Filters And Safety Checks Are Not For People Of Color](https://thoughtcatalog.com/maya-richard-craven/2015/11/facebook-filters-and-safety-checks-are-not-for-people-of-color/)<br>
 
 **Additional Resources:**  
 * [The Salem Diamonds](http://www.jillmagid.com/projects/the-salem-diamonds) 
 * [My Boyfriend Came Back from the War](http://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/) 
 * [Collapse of PAL](https://www.artsy.net/artwork/rosa-menkman-the-collapse-of-pal)
 * [The Art of Forgettig](https://vimeo.com/117301484)
+* [Artificial Hells](https://selforganizedseminar.files.wordpress.com/2011/08/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf)
 
 + In Class Writing Excercise
 
