@@ -161,6 +161,9 @@ Salome Asega is an artist and researcher. She is the co-host of speculative talk
 
 **Additional Resources:** 
 [Selfcare as Warfare by Sara Ahmed](https://feministkilljoys.com/2014/08/25/selfcare-as-warfare/)
+[Feminism and Programming Languages by Arielle Schlesinger](https://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages)
+[Feminism Confronts Technology](https://monoskop.org/images/3/38/Wajcman_Judy_Feminism_Confronts_Technology.pdf)
+
 
 
 
