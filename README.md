@@ -89,12 +89,12 @@ Morehshin Allahyari and Daniel Rourke
 * Upload your presentations to [student\_presentations/](https://github.com/morehshin/TheRadicalOutside/tree/master/student_presentations)
 
 1. Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0)
-[The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) - Presentation by **Fernando**
+[The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) - **Presentation by Fernando**
 
-2. [Disobedient Objects by Catherine Flood, Gavin Grindon](https://www.amazon.com/Disobedient-Objects-Catherine-Flood/dp/1851777970) - Presentation by **April**
+2. [Disobedient Objects by Catherine Flood, Gavin Grindon](https://www.amazon.com/Disobedient-Objects-Catherine-Flood/dp/1851777970) - **Presentation by April**
 
 3. The Middle-East: [Archiving a Revolution in the Digital Age, Archiving as an Act of Resistance by Lara Baladi](http://www.ibraaz.org/essays/163/)
-[Abolish Borders as Revolutionary Futurity By Carlos Jackson](http://www.artpractical.com/feature/abolish-borders-as-revolutionary-futurity/) - Presentation by **Ying Quan Tan** [[slides]](student_presentations/ying%20quan%20tan%20art%20activism.key)
+[Abolish Borders as Revolutionary Futurity By Carlos Jackson](http://www.artpractical.com/feature/abolish-borders-as-revolutionary-futurity/) - **Presentation by Ying Quan Tan** [[slides]](student_presentations/ying%20quan%20tan%20art%20activism.key)
 
 
 **Additional Resources:** 
@@ -119,11 +119,12 @@ Morehshin Allahyari and Daniel Rourke
 
 
 2. Media Archeology
-**Presentation by Stacy**
-[What is Media Archeology? by Jussi Parikka- Chapter 6 and 7](http://pages.uoregon.edu/koopman/courses_readings/colt607/parikka_what-is-media-archaeology.pdf)
 
-3. The Right to be forgotten AND Remembered
-**Presentation by Colin**<br>
+[What is Media Archeology? by Jussi Parikka- Chapter 6 and 7](http://pages.uoregon.edu/koopman/courses_readings/colt607/parikka_what-is-media-archaeology.pdf) - **Presentation by Stacy**
+
+3. The Right to be forgotten AND Remembered- **Presentation by Colin**
+
+
 [The Right to be forgotten by Google](https://en.wikipedia.org/wiki/Right_to_be_forgotten)<br>
 [Forgetting the Internet](http://rhizome.org/editorial/2014/jul/08/forgetting/)<br>
 [Facebook Filters And Safety Checks Are Not For People Of Color](https://thoughtcatalog.com/maya-richard-craven/2015/11/facebook-filters-and-safety-checks-are-not-for-people-of-color/)<br>
@@ -143,10 +144,10 @@ Morehshin Allahyari and Daniel Rourke
 **Tuesday, October 10, 10am**
 
 * Readings Due (post one paragraph response in the directory named week_5_assignment/)
-[Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
+1. [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
 
 
-[Drexciya, The Quest (1997)](https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk)  
+2. [Drexciya, The Quest (1997)](https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk)  
 
 **Guest Speaker: Salome Asega**
 Bio:
