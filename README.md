@@ -89,11 +89,13 @@ Morehshin Allahyari and Daniel Rourke
 * Upload your presentations to [student\_presentations/](https://github.com/morehshin/TheRadicalOutside/tree/master/student_presentations)
 
 1. Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0)
+
 [The Transversal and the Invisible: How do you really make a work of art that is not a work of art?](https://www.dropbox.com/s/gmaes8e1o2eegf8/The%20Transversal%20and%20the%20Invisible.pdf?dl=0) - **Presentation by Fernando**
 
 2. [Disobedient Objects by Catherine Flood, Gavin Grindon](https://www.amazon.com/Disobedient-Objects-Catherine-Flood/dp/1851777970) - **Presentation by April**
 
 3. The Middle-East: [Archiving a Revolution in the Digital Age, Archiving as an Act of Resistance by Lara Baladi](http://www.ibraaz.org/essays/163/)
+
 [Abolish Borders as Revolutionary Futurity By Carlos Jackson](http://www.artpractical.com/feature/abolish-borders-as-revolutionary-futurity/) - **Presentation by Ying Quan Tan** [[slides]](student_presentations/ying%20quan%20tan%20art%20activism.key)
 
 
