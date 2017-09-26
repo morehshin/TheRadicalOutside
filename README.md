@@ -111,18 +111,39 @@ Morehshin Allahyari and Daniel Rourke
 ## Week 4 - Poetry, language, and memory
 **Tuesday, October 3, 10am**
 
-1. Guillermo Montecinos (talk about memory)
+* Readings Due (post one paragraph response in the directory named week_4_assignment/)
+[The Enduring Ephemeral, or the Future Is a Memory Wendy Hui Kyong Chun](https://www.dropbox.com/s/91p6u4446xd7gy3/Hui%20Kyong%20Chun--the_enduring_ephemeral_or.pdf?dl=0)  
+ 
+1. Guillermo Montecinos (talk about memory + archiving + Wikipedia?)
 
-2. Stacy
 
-3. Colin (down for whatever)
+2. Speaking in Net Language and Beyond
+**Presentation by Stacy**
+[My Boyfriend Came Back from the War](http://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/) 
+
+3. The Right to be forgotten and Remembered
+**Presentation by Colin**
+
+[The Right to be forgotten by Google] (https://en.wikipedia.org/wiki/Right_to_be_forgotten)
+
+[Forgetting the Internet] (http://rhizome.org/editorial/2014/jul/08/forgetting/)
+
+
+
++ In Class Writing Excercise
 
 <br>
 
-## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf Futurism)
+## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf-Futurism)
 **Tuesday, October 10, 10am**
 
+Readings Due:
+Drexciya, The Quest (1997) https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk 
 **Guest Speaker: Salome Asega**
+Bio:
+
+Salome Asega is an artist and researcher. She is the co-host of speculative talk show Hyperopia: 20/30 Vision on bel-air radio and the Assistant Director of POWRPLNT, a digital art collaboratory. Salome has participated in residencies and fellowships at Eyebeam, New Museum, and the Laundromat Project, and has given presentations at New Inc, Performa, Eyeo, and Gather Festival. Salome teaches in the MFA Design and Technology program at Parsons at The New School and is a Technology Fellow at the Ford Foundation. 
+
 
 1. Ann (feminism)
 
@@ -134,6 +155,7 @@ Morehshin Allahyari and Daniel Rourke
 **Tuesday, October 17, 10am**
 
 **Guest Speaker: Sarah Aoun**
+Bio: 
 Sarah is a data activist, operational security trainer, and programmer. Her work lies at the intersection of tech, human rights, and transformative justice. She’s collaborated with activists, journalists, grassroots social movements, and NGOs in the US and MENA region on digital security, ethical data & privacy, and data-driven storytelling. Sarah grew up in Lebanon and holds a B.A. in International Relations from Brown University.
 
 
