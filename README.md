@@ -117,18 +117,13 @@ Morehshin Allahyari and Daniel Rourke
 1. Guillermo Montecinos (talk about memory + archiving + Wikipedia?)
 
 
-2. Speaking in Net Language and Beyond
-<br>
-[My Boyfriend Came Back from the War](http://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/)
-<br>
+2. Speaking in Net Language and Beyond <br>
+[My Boyfriend Came Back from the War](http://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/) <br>
 **Presentation by Stacy**
 
-3. The Right to be forgotten and Remembered
-<br>
-[The Right to be forgotten by Google](https://en.wikipedia.org/wiki/Right_to_be_forgotten)
-<br>
-[Forgetting the Internet](http://rhizome.org/editorial/2014/jul/08/forgetting/)
-<br>
+3. The Right to be forgotten and Remembered <br>
+[The Right to be forgotten by Google](https://en.wikipedia.org/wiki/Right_to_be_forgotten) <br>
+[Forgetting the Internet](http://rhizome.org/editorial/2014/jul/08/forgetting/) <br>
 **Presentation by Colin**
 
 
