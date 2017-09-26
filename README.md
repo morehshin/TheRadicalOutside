@@ -131,10 +131,10 @@ Morehshin Allahyari and Daniel Rourke
 [Facebook Filters And Safety Checks Are Not For People Of Color](https://thoughtcatalog.com/maya-richard-craven/2015/11/facebook-filters-and-safety-checks-are-not-for-people-of-color/)
 
 **Additional Resources:**  
-[The Salem Diamonds](http://www.jillmagid.com/projects/the-salem-diamonds) 
-[My Boyfriend Came Back from the War](http://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/) 
-[Collapse of PAL] (https://www.artsy.net/artwork/rosa-menkman-the-collapse-of-pal)
-[The Art of Forgettig](https://vimeo.com/117301484)
+* [The Salem Diamonds](http://www.jillmagid.com/projects/the-salem-diamonds) 
+* [My Boyfriend Came Back from the War](http://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/) 
+* [Collapse of PAL](https://www.artsy.net/artwork/rosa-menkman-the-collapse-of-pal)
+* [The Art of Forgettig](https://vimeo.com/117301484)
 
 + In Class Writing Excercise
 
