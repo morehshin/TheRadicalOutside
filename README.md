@@ -112,7 +112,11 @@ Morehshin Allahyari and Daniel Rourke
 ## Week 4 - Poetry, language, and memory
 **Tuesday, October 3, 10am**
 
-* Readings Due (You don't need to post a response for this reading. Instead see writing instructuon for this week's assignment)
+Writing Assignmnet Due: [Future Proof (See here for Instruction)](https://docs.google.com/document/d/1O3JdjFHY_IRTZ3Q6gJY0-d-lF6mUcSW1hi0TzmZkPHE/edit)
+
+
+* Readings Due (You don't need to post a response for this reading. Instead see above for writing instructuon for this week's assignment)
+
 [The Enduring Ephemeral, or the Future Is a Memory Wendy Hui Kyong Chun](https://www.dropbox.com/s/91p6u4446xd7gy3/Hui%20Kyong%20Chun--the_enduring_ephemeral_or.pdf?dl=0)  
  
 1. Digital culture, memory, South America 	
@@ -137,7 +141,7 @@ Morehshin Allahyari and Daniel Rourke
 * [The Art of Forgettig](https://vimeo.com/117301484)
 
 
-+ In Class Writing Excercise
+
 
 
 
