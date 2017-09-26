@@ -145,6 +145,8 @@ Morehshin Allahyari and Daniel Rourke
 
 * Readings Due (post one paragraph response in the directory named week_5_assignment/)
 [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
+
+
 [Drexciya, The Quest (1997)](https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk)  
 
 **Guest Speaker: Salome Asega**
