@@ -112,7 +112,7 @@ Morehshin Allahyari and Daniel Rourke
 ## Week 4 - Poetry, language, and memory
 **Tuesday, October 3, 10am**
 
-* Readings Due (post one paragraph response in the directory named week_4_assignment/)
+* Readings Due (You don't need to post a response for this reading. Instead see writing instructuon for this week's assignment)
 [The Enduring Ephemeral, or the Future Is a Memory Wendy Hui Kyong Chun](https://www.dropbox.com/s/91p6u4446xd7gy3/Hui%20Kyong%20Chun--the_enduring_ephemeral_or.pdf?dl=0)  
  
 1. Guillermo Montecinos (talk about memory + archiving + Wikipedia?)
