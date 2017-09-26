@@ -154,9 +154,11 @@ Salome Asega is an artist and researcher. She is the co-host of speculative talk
 
 1. Ann (feminism)
 [A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) 
-[Selfcare as Warfare by Sara Ahmed](https://feministkilljoys.com/2014/08/25/selfcare-as-warfare/)
 
 2. Qiao (Gulf)
+
+**Additional Resources:** 
+[Selfcare as Warfare by Sara Ahmed](https://feministkilljoys.com/2014/08/25/selfcare-as-warfare/)
 
 
 <br>
