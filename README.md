@@ -101,7 +101,7 @@ Morehshin Allahyari and Daniel Rourke
 
 **Additional Resources:** 
 * [Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
-* [Syllabus for White People to Educate Themselves](https://docs.google.com/document/d/1By9bUjJ78snEeZuLXNGBdlVMJgEQWMEjR-Gfx8ER7Iw/mobilebasic#heading=h.bi12zdslqy3z)
+* [Syllabus for White People to Educate Themselves](https://trello.com/c/HPgyHgJn/2-syllabus-for-white-people-to-educate-themselves)
 * [Charlottesville Syllabus - History of white supremacy in Charlottesville, VA](https://medium.com/@UVAGSC/the-charlottesville-syllabus-9e01573419d0)
 * [Artificial Hells](https://selforganizedseminar.files.wordpress.com/2011/08/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf)
 
