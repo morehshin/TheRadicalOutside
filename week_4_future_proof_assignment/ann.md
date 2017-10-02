@@ -1,12 +1,10 @@
- -_Step 1: Obtain 52 Grasshoppers (alternatively, a colony of fire ants, crickets, or paper wasps)._
- 
- -_Step 2: Seal subjects within an airtight chamber._
- 
- -_Step 3: Observe for four to five hours._
- 
- -_Step 4: (Optional) Evacuate air, spray with sealant, drown in resin, or otherwise preserve your artwork.  If you prefer the ephemeral, dispose of the piece at your nearest hazardous waste collection center._
- 
- --an early example of ___’s work that is often cited as a turning point for the post-parasitism movement of the late 21st century.
+<dl>
+ <dd><em>Step 1: Obtain 52 Grasshoppers (alternatively, a colony of fire ants, crickets, or paper wasps).</em></dd>
+ <dd><em>Step 2: Seal subjects within an airtight chamber.</em></dd>
+ <dd><em>Step 3: Observe for four to five hours.</em></dd>
+ <dd><em>Step 4: (Optional) Evacuate air, spray with sealant, drown in resin, or otherwise preserve your artwork.  If you prefer the ephemeral, dispose of the piece at your nearest hazardous waste collection center.</em></dd>
+<dd>--an early example of ___’s work that is often cited as a turning point for the post-parasitism movement of the late 21st century.</dd>
+</dl>
 
 
 *Step 1: Obtain one medium sized pig; a 250-pound Berkshire pig is recommended.*
