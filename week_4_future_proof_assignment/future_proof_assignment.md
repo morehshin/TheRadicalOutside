@@ -11,17 +11,17 @@ FUTURE PROOF ASSIGNMENT(DUE OCTOBER 3)
 
 
 MORE INFO:
-*What does Future Proof mean?
+* What does Future Proof mean?
 https://en.wikipedia.org/wiki/Future_proof 
 
-*Things to look at for inspiration:
+* Things to look at for inspiration:
 
 The Salem Diamonds
 My Boyfriend Came Back from the War
 Collapse of PAL
 The Art of Forgettig
 
-*Some stories written by students from Taeyoon’s class: 
+* Some stories written by students from Taeyoon’s class: 
 
 https://sfpchris.tumblr.com/post/132092591298/the-physical-possibility-of-death-in-the-mind-of
 https://www.youtube.com/watch?time_continue=85&v=rO_lwjhoSiU 
