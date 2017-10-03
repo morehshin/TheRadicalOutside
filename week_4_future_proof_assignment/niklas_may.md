@@ -1,5 +1,5 @@
 **File Number: 47A99B87C**
-### Project: Exhibition: The Digital Art before Singularity
+Project: Exhibition: The Digital Art before Singularity
                         
 **Log 1: Extracting Artistic Data**  
 295 Exabytes: Total amount of Dark Data  
