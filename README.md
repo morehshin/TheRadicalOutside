@@ -164,7 +164,9 @@ Salome Asega is an artist and researcher. She is the co-host of speculative talk
 
 2. Qiao (Gulf)
 [Ethnic Futurism In The Gulf](http://thesigers.com/analysis/2013/7/31/ethnic-futurism-in-the-gulf.html)
+
 [Imagining a Middle-East](https://www.ici-berlin.org/events/imaging-a-middle-east/)
+
 [Delusions of Grandeur: GCC at MoMA PS1 and the New Museum](http://thesigers.com/analysis/2013/7/31/ethnic-futurism-in-the-gulf.html)
 
 
