@@ -1,6 +1,6 @@
 # The Radical Outside Library
 
-## A collaborative class effort to assemble a new kind to build a new library of critical thinking and reading; written and processed by women (+LGBT) and POC.
+## A collaborative class effort to build a new library of critical thinking and reading; written and processed by women (+LGBT) and POC.
 
 Let's practice 'reflective thinking'; to not find comfort in how - up to this very day - the story of technology is told to us; by which figures and which systems.
 
@@ -17,7 +17,3 @@ Let's practice 'reflective thinking'; to not find comfort in how - up to this ve
 ### Notes
 - Before the session's end, there should be at least 8 files in your folder.
 - A .pdf or .md file for each work you've included and 1 bibliography.md file.
-
-
-
-  
