@@ -1,8 +1,8 @@
-##Characters : 
+## Characters : 
 
-*C(curator : Colin - pure human) : Colin is 40 years old senior curator who has been working in this museum for 10 years. Specializing in 20th and early 21st century art.
+*C(curator : Colin - pure human) : Colin is 40 years old senior curator who has been working in this museum for 10 years. Specializing in 20th and early 21st century art.*
 
-H(technologist : Hyojin - AI) - Hyojin is 20’s looking technologist who came from lab experiment embedding AI into robotic body. It has vast amount of knowledge but confused about identity.*
+*H(technologist : Hyojin - AI) - Hyojin is 20’s looking technologist who came from lab experiment embedding AI into robotic body. It has vast amount of knowledge but confused about identity.*
 
 
 Colin looks down at Hyojin, who is standing oddly straight with picture smile.
