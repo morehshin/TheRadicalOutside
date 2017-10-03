@@ -32,6 +32,11 @@ Monday August 8, 2061
 Caravaggio Deep Learning Restoration Discussion
 Notes: Deep learning analysis of available pigments in the 16th and 17th centuries along with advances in regressive computer vision have revealed that it is possible that the work of traditional art restorers for decades has been subtly reinforcing notions of chiaroscuro influenced by art historians. It’s possible that the original artistic intent revealed far more vibrancy than we associate with the artist, raising questions of artistic intent.
 
+Tuesday, August 9, 2061
+6:45 AM
+Drop off Aiden Off At Pre-School
+Notes: Remember that the left lane is NOT to be used for dropoff
+
 Monday, August 8, 2061
 12:45PM
 Lunch with John Dale and Richard Simmons from Github
