@@ -21,6 +21,6 @@ Let's practice 'reflective thinking'; to not find comfort in how - up to this ve
 
 
 ### Notes
-- Use the [_example-student/](https://github.com/morehshin/TheRadicalOutside/tree/master/TheRadicalOutsideLibrary/_example-student) folder as a reference for how your folders should be structured.
+- Use [_example-student/](https://github.com/morehshin/TheRadicalOutside/tree/master/TheRadicalOutsideLibrary/_example-student) as a reference for how your folders should be structured.
 - Before the session's end, there should be at least 8 files in your folder.
   - A .pdf file for each work you've included (between 7-10) and one bibliography.md file.
