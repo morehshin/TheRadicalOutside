@@ -56,7 +56,7 @@ Notes: The work of several of our artists that used dynamic ad insertions to cre
 Monday, August 8, 2061
 5:00PM
 Pick up Aiden from after-school day care
-Notes: Remember that the left lane is NOT to be used for dropoff
+Notes: Remember that the left lane is NOT to be used for pickup.
 
 Monday, August 8, 2061
 6:00PM
@@ -65,7 +65,7 @@ Dinner with Aiden and John
 Monday, August 8, 2061
 7:30PM
 Prenatal Pilates!
-Notes: Remember to to bring micro-sensor yoga pants!
+Notes: Remember to to bring micro-sensor excercise clothing!
 
 Monday, August 8, 2061
 9:00PM
