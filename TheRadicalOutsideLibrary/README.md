@@ -12,7 +12,7 @@ Let's practice 'reflective thinking'; to not find comfort in how - up to this ve
 - Find the pdf's for these works and upload them to your folder within the TheRadicalOutsideLibrary folder.
 - If you can only find a URL for a selected work:
   - copy and paste the text and put it in a .md file with the original URL at the top (see the example-student folder for reference).
-- Name your files with a number, followed by the title of the work, and the author (see the example-student folder for reference).
+- Name your files with a number, followed by the last name of the author, followed by a word from the title. Ex: 2-spivak-subaltern.pdf (Also see the **example-student** folder for reference).
 
 **The Bibliography**
 - Create a bibliography entry for each work included by editing the folder called **bibliography.md**
