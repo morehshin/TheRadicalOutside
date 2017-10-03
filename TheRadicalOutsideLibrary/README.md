@@ -11,8 +11,8 @@ Let's practice 'reflective thinking'; to not find comfort in how - up to this ve
   - The works can be books, articles, or other forms of **written** material.
 - Find the pdf's for these works and upload them to your folder within the TheRadicalOutsideLibrary folder.
 - If you can only find a URL for a selected work:
-  - copy and paste the text and put it in a .md file with the original URL at the top (see the example-student folder for reference).
-- Name your files with a number, followed by the last name of the author, followed by a word from the title. Ex: 2-spivak-subaltern.pdf (Also see the **example-student** folder for reference).
+  - Save the web page as a PDF using [this guide](https://www.digitaltrends.com/computing/how-to-save-a-webpage-as-a-pdf/)
+- Name your files with a number, followed by the last name of the author, followed by a word or two from the title. Ex: 2-haroway-cyborg.pdf
 
 **The Bibliography**
 - Create a bibliography entry for each work included by editing the folder called **bibliography.md**
@@ -22,4 +22,4 @@ Let's practice 'reflective thinking'; to not find comfort in how - up to this ve
 
 ### Notes
 - Before the session's end, there should be at least 8 files in your folder.
-  - A .pdf or .md file for each work you've included (7-10) and 1 bibliography.md file.
+  - A .pdf file for each work you've included (between 7-10) and one bibliography.md file.
