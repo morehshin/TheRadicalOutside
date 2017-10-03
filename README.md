@@ -163,6 +163,10 @@ Salome Asega is an artist and researcher. She is the co-host of speculative talk
 [A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) 
 
 2. Qiao (Gulf)
+[Ethnic Futurism In The Gulf](http://thesigers.com/analysis/2013/7/31/ethnic-futurism-in-the-gulf.html)
+[Imagining a Middle-East](https://www.ici-berlin.org/events/imaging-a-middle-east/)
+[Delusions of Grandeur: GCC at MoMA PS1 and the New Museum](http://thesigers.com/analysis/2013/7/31/ethnic-futurism-in-the-gulf.html)
+
 
 **Additional Resources:**
 [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
