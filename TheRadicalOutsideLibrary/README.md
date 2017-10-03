@@ -12,7 +12,7 @@ Let's practice 'reflective thinking'; to not find comfort in how - up to this ve
 - Find the pdf's for these works and upload them to your folder within the TheRadicalOutsideLibrary folder.
 - If you can only find a URL for a selected work:
   - Save the web page as a PDF using [this guide](https://www.digitaltrends.com/computing/how-to-save-a-webpage-as-a-pdf/)
-- Name your files with a number, followed by the last name of the author, followed by a word or two from the title. Ex: 2-haroway-cyborg.pdf
+- Name your files with a number, followed by the last name of the author, followed the title (or a word from the title). Ex: 2-haroway-cyborg.pdf
 
 **The Bibliography**
 - Create a bibliography entry for each work included by editing the folder called **bibliography.md**
