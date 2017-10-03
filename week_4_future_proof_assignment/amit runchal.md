@@ -1,4 +1,4 @@
-ONE DAY
+MONDAY
 
 Monday, August 8, 2061
 6:45 AM
