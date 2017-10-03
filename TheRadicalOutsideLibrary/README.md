@@ -16,4 +16,4 @@ Let's practice 'reflective thinking'; to not find comfort in how - up to this ve
 
 ### Notes
 - Before the session's end, there should be at least 8 files in your folder.
-- A .pdf or .md file for each work you've included and 1 bibliography.md file.
+- A .pdf or .md file for each work you've included (7-10) and 1 bibliography.md file.
