@@ -3,7 +3,7 @@
 
 # Bibliography
 
-1. Freeman, Jo. The tyranny of structurelessness. Hull: Anarchist Workers Association (Kingston), 1980.
+1. Freeman, Jo. _The tyranny of structurelessness_. Hull: Anarchist Workers Association (Kingston), 1980.
 
 2. 
 
