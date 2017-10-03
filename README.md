@@ -149,7 +149,7 @@ Writing Assignmnet Due: [Future Proof (See here for Instruction)](https://docs.g
 **Tuesday, October 10, 10am**
 
 * Readings Due (post one paragraph response in the directory named week_5_assignment/)
-1. [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
+
 
 
 2. [Drexciya, The Quest (1997)](https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk)  
@@ -164,7 +164,8 @@ Salome Asega is an artist and researcher. She is the co-host of speculative talk
 
 2. Qiao (Gulf)
 
-**Additional Resources:** 
+**Additional Resources:**
+[Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
 [Selfcare as Warfare by Sara Ahmed](https://feministkilljoys.com/2014/08/25/selfcare-as-warfare/)
 [Feminism and Programming Languages by Arielle Schlesinger](https://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages)
 [Feminism Confronts Technology](https://monoskop.org/images/3/38/Wajcman_Judy_Feminism_Confronts_Technology.pdf)
