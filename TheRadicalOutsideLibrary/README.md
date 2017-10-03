@@ -4,7 +4,7 @@
 
 Let's practice 'reflective thinking'; to not find comfort in how - up to this very day - the story of technology is told to us; by which figures and which systems.
 
-### Assignment:
+### Assignment
 
 **The Selection**
 - Assemble 7 to 10 works for the library written and processed by women, LGBT, and POC.
