@@ -16,10 +16,11 @@ Let's practice 'reflective thinking'; to not find comfort in how - up to this ve
 
 **The Bibliography**
 - Create a bibliography entry for each work included by editing the folder called **bibliography.md**
-  - Number your bibliography entries with the corresponding number of that file name. (see the example-student folder for reference).
+  - Number your bibliography entries with the corresponding number of that file name. (see the `_example-student/` folder for reference).
   - Use the [Chicago style of bibliography notation](http://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html).
 
 
 ### Notes
+- Use the `_example-student/` folder as a reference for how your folders should be structured.
 - Before the session's end, there should be at least 8 files in your folder.
   - A .pdf file for each work you've included (between 7-10) and one bibliography.md file.
