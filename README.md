@@ -148,7 +148,7 @@ Writing Assignmnet Due: [Future Proof (See here for Instruction)](https://docs.g
 ## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf-Futurism)
 **Tuesday, October 10, 10am**
 
-* Readings Due (post one paragraph response in the directory named week_5_assignment/)
+* Assignment Due (Building a Library Together). See more [here](https://github.com/morehshin/TheRadicalOutside/blob/master/TheRadicalOutsideLibrary/README.md) and please put your materia in your own folder created for you [here](https://github.com/morehshin/TheRadicalOutside/tree/master/TheRadicalOutsideLibrary).
 
 
 
