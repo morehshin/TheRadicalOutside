@@ -11,7 +11,7 @@ Let's practice 'reflective thinking'; to not find comfort in how - up to this ve
   - The works can be books, articles, or other forms of **written** material.
 - Find the pdf's for these works and upload them to your folder within the TheRadicalOutsideLibrary folder.
 - If you can only find a URL for a selected work:
-  - Save the web page as a PDF using [this guide](https://www.digitaltrends.com/computing/how-to-save-a-webpage-as-a-pdf/). Ask Melanie if you have questions about this.
+  - Save the web page as a PDF using [this guide](https://www.digitaltrends.com/computing/how-to-save-a-webpage-as-a-pdf/). Ex: [This pdf came from Rhizome](https://github.com/morehshin/TheRadicalOutside/blob/master/TheRadicalOutsideLibrary/_example-student/4-khan-simulation.pdf) Ask Melanie if you have questions about this.
 - Name your files with a number, followed by the last name of the author, followed the title (or a word from the title). Ex: 2-haroway-cyborg.pdf
 
 **The Bibliography**
