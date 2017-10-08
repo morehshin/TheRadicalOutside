@@ -1,3 +1,5 @@
+	Bibliography
+	
 	1. Amelia Abreu, “The Collection and the Cloud,” March 9, 2015, https://thenewinquiry.com/the-collection-and-the-cloud/.
 
 	2. Kate Crawford, 'Asking the Oracle' in Astro Noise, ed. Laura Poitras (New Haven: Yale University Press, 2016), 128-141. 
