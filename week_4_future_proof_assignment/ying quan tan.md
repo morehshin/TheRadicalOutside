@@ -17,7 +17,7 @@ books surrounding me. I had found an undiscovered room on this site, which
 others have missed. That should be no surprise, I was written to do this job.
 I grab a book, and it's much thinner than it appears, oweing to the thick dust caking it. 
 
-After hours of reading, I begin piecing some of the pieces together. The books
+After hours of reading, I begin putting some of the pieces together. The books
 describe the history of an ancient race. A theme keeps coming back again and 
 again in these stories, that these people seem to repeat their mistakes over and
 over again. Forgetting. It's like destroying memory, except unwilfully.
