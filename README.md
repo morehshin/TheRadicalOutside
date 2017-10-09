@@ -240,7 +240,6 @@ III - Additional Reading
 Choose a topic from [here] or/and one of the above readings suggested by Sarah above (https://www.apc.org/en/pubs/research)
 
 2. Kaitlin 
-
 Choose this [Gendering Surveillance.](https://genderingsurveillance.internetdemocracy.in/) or/and one of the above readings suggested by Sarah above
 
 3. Matt Jacobson
