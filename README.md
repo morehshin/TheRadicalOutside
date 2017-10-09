@@ -160,7 +160,7 @@ Bio:
 Salome Asega is an artist and researcher. She is the co-host of speculative talk show Hyperopia: 20/30 Vision on bel-air radio and the Assistant Director of POWRPLNT, a digital art collaboratory. Salome has participated in residencies and fellowships at Eyebeam, New Museum, and the Laundromat Project, and has given presentations at New Inc, Performa, Eyeo, and Gather Festival. Salome teaches in the MFA Design and Technology program at Parsons at The New School and is a Technology Fellow at the Ford Foundation. 
 
 
-**Suggested Material from Salome**
+**Suggested Material from Salome Asega**
 
 [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
 
@@ -194,13 +194,54 @@ Salome Asega is an artist and researcher. She is the co-host of speculative talk
 Bio: 
 Sarah is a data activist, operational security trainer, and programmer. Her work lies at the intersection of tech, human rights, and transformative justice. She’s collaborated with activists, journalists, grassroots social movements, and NGOs in the US and MENA region on digital security, ethical data & privacy, and data-driven storytelling. Sarah grew up in Lebanon and holds a B.A. in International Relations from Brown University.
 
+**Suggested Material from Sarah Aoun**
+
+
+I - History, Colonialism, Empire
+
+[Colonialism and Surveillance](https://books.google.com/books?id=F8nhCfrUamEC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) 
+
+page 151-158
+
+[Identification Practices: State Formation, Crime Control, Colonialism, and War](https://books.google.com/books?hl=en&lr=&id=bd_r_kYwuXQC&oi=fnd&pg=PP1#v=onepage&q&f=false)
+
+chapt 2, page 42
+
+
+[Race, surveillance, and empire](https://isreview.org/issue/96/race-surveillance-and-empire) 
+
+
+II - Algorithms, Surveillance
+
+[Taser will use police body camera videos to anticipate criminal activity](https://theintercept.com/2017/04/30/taser-will-use-police-body-camera-videos-to-anticipate-criminal-activity/)
+
+
+Part 1: [Leaked documents reveal counterterrorism tactics used at Standing Rock to "defeat pipeline insurgencies"](https://theintercept.com/2017/06/03/standing-rock-documents-expose-inner-workings-of-surveillance-industrial-complex/)
+
+
+Part 2: [Standing Rock documents expose inner workings of "surveillance industrial complex"](https://theintercept.com/2017/06/03/standing-rock-documents-expose-inner-workings-of-surveillance-industrial-complex/)
+
+
+[Aadhar, one ID to rule them all](https://www.buzzfeed.com/pranavdixit/one-id-to-rule-them-all-controversy-plagues-indias-aadhaar?utm_term=.lvrVAW5ze#.gh5W34xqo)
+
+
+[Omnipresence is the newest NYPD tactic you've never heard of](https://www.vice.com/en_us/article/vdpq7m/omnipresence-is-the-newest-nypd-tactic-youve-never-heard-of-1020)
+
+[What can an algorithm do](http://dismagazine.com/discussion/72975/josh-scannell-what-can-an-algorithm-do/) 
+
+III - Additional Reading
+
+[Surveillance as a tool for racism](https://techcrunch.com/2016/04/25/surveillance-as-a-tool-for-racism/)
+
+[How Peter Thiel's Secretive Data Company Pushed Into Policing](https://www.wired.com/story/how-peter-thiels-secretive-data-company-pushed-into-policing/) 
+
 
 1. Diego
-Choose a topic from [here](https://www.apc.org/en/pubs/research)
+Choose a topic from [here] or/and one of the above readings suggested by Sarah above (https://www.apc.org/en/pubs/research)
 
-2. Kaitlin
+2. Kaitlin 
 
-[Gendering Surveillance.](https://genderingsurveillance.internetdemocracy.in/) 
+Choose this [Gendering Surveillance.](https://genderingsurveillance.internetdemocracy.in/) or/and one of the above readings suggested by Sarah above
 
 3. Matt Jacobson
  
@@ -209,7 +250,7 @@ Choose a topic from [here](https://www.apc.org/en/pubs/research)
 ## Week 7 -  Digital Colonialism 
 **Tuesday, October 24, 10am**
 
-1. Presentation by Heather Moore 
+1. Heather Moore 
 
 2. Hyojin 
 
