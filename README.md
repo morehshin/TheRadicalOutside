@@ -196,8 +196,11 @@ Sarah is a data activist, operational security trainer, and programmer. Her work
 
 
 1. Diego
+Choose a topic from [here](https://www.apc.org/en/pubs/research)
 
 2. Kaitlin
+
+[Gendering Surveillance.](https://genderingsurveillance.internetdemocracy.in/) 
 
 3. Matt Jacobson
  
