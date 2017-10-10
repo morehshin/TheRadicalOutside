@@ -145,7 +145,7 @@ Writing Assignmnet Due: [Future Proof (See here for Instruction)](https://docs.g
 
 
 
-## Week 5- Other Futurisms (Feminism, Aforfuturism, Gulf-Futurism/Ethnifuturisms)
+## Week 5- Other Futurisms (Cyberfeminism, Aforfuturism, Gulf-Futurism/Ethnifuturisms)
 **Tuesday, October 10, 10am**
 
 * Assignment Due (Building a Library Together). See more [here](https://github.com/morehshin/TheRadicalOutside/blob/master/TheRadicalOutsideLibrary/README.md) and please put your materia in your own folder created for you [here](https://github.com/morehshin/TheRadicalOutside/tree/master/TheRadicalOutsideLibrary).
@@ -156,7 +156,9 @@ Writing Assignmnet Due: [Future Proof (See here for Instruction)](https://docs.g
 
 
 **Guest Speaker: Salome Asega**
+
 Bio:
+
 Salome Asega is an artist and researcher. She is the co-host of speculative talk show Hyperopia: 20/30 Vision on bel-air radio and the Assistant Director of POWRPLNT, a digital art collaboratory. Salome has participated in residencies and fellowships at Eyebeam, New Museum, and the Laundromat Project, and has given presentations at New Inc, Performa, Eyeo, and Gather Festival. Salome teaches in the MFA Design and Technology program at Parsons at The New School and is a Technology Fellow at the Ford Foundation. 
 
 
