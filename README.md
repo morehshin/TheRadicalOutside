@@ -243,8 +243,6 @@ Choose a topic from [here] or/and one of the above readings suggested by Sarah a
 
 2. Kaitlin 
 Choose this [Gendering Surveillance.](https://genderingsurveillance.internetdemocracy.in/) or/and one of the above readings suggested by Sarah above
-
-3. Matt Jacobson
  
 <br>
 
@@ -255,7 +253,7 @@ Choose this [Gendering Surveillance.](https://genderingsurveillance.internetdemo
 
 2. Hyojin 
 
-3. 
+3. Matt Jacobson
 
 
 
