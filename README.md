@@ -171,7 +171,7 @@ Salome Asega is an artist and researcher. She is the co-host of speculative talk
 1. Ann (feminism)
 [A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) 
 
-2. Qiao (Gulf)
+2. Qiao (Gulf) [Presentation](https://www.notion.so/Gulf-Futurism-d1ffeb3bcde6491598644d257ab73943)
 [Ethnic Futurism In The Gulf](http://thesigers.com/analysis/2013/7/31/ethnic-futurism-in-the-gulf.html)
 
 [Imagining a Middle-East](https://www.ici-berlin.org/events/imaging-a-middle-east/)
