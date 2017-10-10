@@ -15,7 +15,8 @@ Anyway: here's some writing by women/POC/LGTBQ that have been important to me re
 5. Manguso, Sarah. 300 Arguments. 
 6. Coates, Ta-Nehisi. Between the World and Me.
 7. Tanizaki, Junichoro. In Praise of Shadows.
-8. Sicha, Choire. Very Recent History: An Entirely Factual Account of a Year (c. AD 2009) in a Large City. 
+8. Sicha, Choire. Very Recent History: An Entirely Factual Account of a Year (c. AD 2009) in a Large City.
+9. Nelson, Maggie. Bluets.
 
 
 https://www.amazon.com/Close-Machine-Technophilia-Its-Discontents/dp/1250002486/ref=sr_1_3?ie=UTF8&qid=1507609102&sr=8-3&keywords=ellen+ullman
@@ -33,3 +34,5 @@ https://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0812993543/ref=sr_1_
 https://www.amazon.com/Praise-Shadows-Junichiro-Tanizaki/dp/0918172020/ref=sr_1_1?s=books&ie=UTF8&qid=1507613841&sr=1-1&keywords=in+praise+of+shadows
 
 https://www.amazon.com/Very-Recent-History-Entirely-Factual/dp/0061914312/ref=sr_1_1?s=books&ie=UTF8&qid=1507613855&sr=1-1&keywords=very+recent+history
+
+https://www.amazon.com/Bluets-Maggie-Nelson/dp/1933517409/ref=sr_1_1?s=books&ie=UTF8&qid=1507614551&sr=1-1&keywords=bluets
