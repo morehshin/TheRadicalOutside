@@ -1,0 +1,8 @@
+- Bishop, Claire. *Artificial Hells: Participatory Art and the Politics of Spectatorship.* New York: Verso, 2012.
+- Bruguera, Tania. *Reflexions on Arte Útil.* In *What’s the use? : constellations of art, history, and knowledge* by Nick Aikens, Thomas Lange, Jorinde Seijdel, Steven ten Thije. Amsterdam: Valiz, 2016.
+- Freire, Paulo. *Pedagogy of the oppressed.* New York: Continuum, 2005.
+- Helguera, Pablo. *Education for Socially Engaged Art.* New York: George Pinto Books, 2011.
+- Perini, Julie. *Art as intervention: a guide to today’s radical art practices.* In Uses of a whirlwind by Team Colors Collective. AK Press, 2010.
+- Scott, Emily & Kirsten Swenson. *Critical Landscapes: Art, Space, Politics.* University of California Press, 2015. 
+    - introduction only
+- Turing, Alan. “Computing Machinery and Intelligence.” *Mind* 59, no. 236 (October 1950), pp. 433-460.
