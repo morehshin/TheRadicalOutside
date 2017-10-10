@@ -1,4 +1,4 @@
-1-crittenden-tech pride
+1-crittenden-tech pride\n
 2-brown-out in tech what is like to be lgbt
 3-davis-5 Awesome Groups That Support The LGBTQIA Tech Community
 4-cech-queer in stem organizations
