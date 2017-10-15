@@ -192,6 +192,8 @@ Salome Asega is an artist and researcher. She is the co-host of speculative talk
 ## Week 6 - Privacy and Surveillance
 **Tuesday, October 17, 10am**
 
+Please post a short reading response from one of the below readings (post one in the directory named week_6_assignment/)
+
 **Guest Speaker: Sarah Aoun**
 Bio: 
 Sarah is a data activist, operational security trainer, and programmer. Her work lies at the intersection of tech, human rights, and transformative justice. She’s collaborated with activists, journalists, grassroots social movements, and NGOs in the US and MENA region on digital security, ethical data & privacy, and data-driven storytelling. Sarah grew up in Lebanon and holds a B.A. in International Relations from Brown University.
