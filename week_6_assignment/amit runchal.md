@@ -1,3 +1,5 @@
+Reaction to Race, Surveillance and Empire
+
 The thing that interests me in reading this is both my total lack of surprise of the facts of the paper but that fundamentally I think it’s not going far enough in analyzing the problem. 
 
 Outside of my usual issues with intellectuals using 19th century ideas is that they ignore both history and psychology in building more nuanced understandings of this. It’s a little bit terrifying because it ignores conceptually the more interesting role of the state in using technology to both surveil and monitor the other. All states do this regardless of political creed or ideology from fascist fundamentalist states to more liberal democracies. This is fundamentally a psychological error in analysis. 
