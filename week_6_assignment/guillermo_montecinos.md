@@ -1,0 +1,1 @@
+The author looks at United State’s history to demonstrate that mass surveillance has been an official policy to suppress minorities as black people, immigrants, or left-side parties. According to the article, during the last 10 years the security policy has been focused on Arab Americans and Muslim Americans with a clear racial bias.
