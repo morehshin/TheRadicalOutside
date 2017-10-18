@@ -101,8 +101,11 @@ Morehshin Allahyari and Daniel Rourke
 
 **Additional Resources:** 
 * [Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
+
 * [Syllabus for White People to Educate Themselves](https://trello.com/c/HPgyHgJn/2-syllabus-for-white-people-to-educate-themselves) - Click "Download pdf" link
+
 * [Charlottesville Syllabus - History of white supremacy in Charlottesville, VA](https://medium.com/@UVAGSC/the-charlottesville-syllabus-9e01573419d0)
+
 * [Artificial Hells](https://selforganizedseminar.files.wordpress.com/2011/08/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf)
 
 
@@ -136,8 +139,11 @@ Writing Assignmnet Due: [Future Proof (See here for Instruction)](https://docs.g
 
 **Additional Resources:**  
 * [The Salem Diamonds](http://www.jillmagid.com/projects/the-salem-diamonds) 
+
 * [My Boyfriend Came Back from the War](http://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/) 
+
 * [Collapse of PAL](https://www.artsy.net/artwork/rosa-menkman-the-collapse-of-pal)
+
 * [The Art of Forgettig](https://vimeo.com/117301484)
 
 
@@ -181,8 +187,11 @@ Salome Asega is an artist and researcher. She is the co-host of speculative talk
 
 **Additional Resources:**
 [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
+
 [Selfcare as Warfare by Sara Ahmed](https://feministkilljoys.com/2014/08/25/selfcare-as-warfare/)
+
 [Feminism and Programming Languages by Arielle Schlesinger](https://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages)
+
 [Feminism Confronts Technology](https://monoskop.org/images/3/38/Wajcman_Judy_Feminism_Confronts_Technology.pdf)
 
 
@@ -251,9 +260,12 @@ Choose this [Gendering Surveillance.](https://genderingsurveillance.internetdemo
 ## Week 7 -  Digital Colonialism 
 **Tuesday, October 24, 10am**
 
+
 Readings Due (You don't need to post a response for this reading. But still read it? Yeah?) 
 
 [In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/) 
+
+Morehshin Intro on Digital Coloniasm + 3D Scanning + Cultural Heritage 
 
 
 1. Heather Moore 
@@ -278,7 +290,6 @@ Linear Time + History
 
 [piratology](http://mauvaiscontact.info/kop/cd/text/pirate.html)
 
-+ 
 
 [In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/) 
 
