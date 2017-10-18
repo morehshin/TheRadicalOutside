@@ -251,13 +251,36 @@ Choose this [Gendering Surveillance.](https://genderingsurveillance.internetdemo
 ## Week 7 -  Digital Colonialism 
 **Tuesday, October 24, 10am**
 
+Readings Due (You don't need to post a response for this reading. But still read it? Yeah?) 
+
+[In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/) 
+
+
 1. Heather Moore 
+
+Net+ Map
+
+[GOOGLE MAPS IS CHANGING THE WAY WE SEE THE WORLD](https://www.wired.com/2007/06/ff-maps/)
+[Digital Colonialism and the Marginalization of Australia’s Indigenous Peoples](https://hyperallergic.com/316272/digital-colonialism-and-the-marginalization-of-australias-indigenous-peoples/) 
+
+[The Personal & the Politics of Language: Digital Colonialism & Annie Abrahams’ (E)stranger](http://www.furtherfield.org/features/reviews/personal-politics-language-digital-colonialism-annie-abrahams%E2%80%99-estranger) 
 
 2. Hyojin 
 
+Linear Time + History
+
+[Singularities](https://youtu.be/Fd1LHsnlVC8?t=43m3s) 
+
+[Black Quantum Futurism: Theory & Practice (Volume 1)](https://www.amazon.com/Black-Quantum-Futurism-Theory-Practice/dp/099600503X/ref=asap_bc?ie=UTF8) 
+
+
 3. Matt Jacobson
 
+[piratology](http://mauvaiscontact.info/kop/cd/text/pirate.html)
 
++ 
+
+[In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/) 
 
 ## Week 8: Manifestos for the Internet Age 
 **Tuesday, November 1, 10am**
