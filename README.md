@@ -273,6 +273,7 @@ Morehshin Intro on Digital Coloniasm + 3D Scanning + Cultural Heritage
 Net+ Map
 
 [GOOGLE MAPS IS CHANGING THE WAY WE SEE THE WORLD](https://www.wired.com/2007/06/ff-maps/)
+
 [Digital Colonialism and the Marginalization of Australia’s Indigenous Peoples](https://hyperallergic.com/316272/digital-colonialism-and-the-marginalization-of-australias-indigenous-peoples/) 
 
 [The Personal & the Politics of Language: Digital Colonialism & Annie Abrahams’ (E)stranger](http://www.furtherfield.org/features/reviews/personal-politics-language-digital-colonialism-annie-abrahams%E2%80%99-estranger) 
