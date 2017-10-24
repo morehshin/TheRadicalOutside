@@ -308,13 +308,20 @@ OR
 2. Wei
 
 
+
 3. Niklas 
 
  [Bitcoin Manifesto](https://github.com/greyscalepress/manifestos/blob/master/content/manifestos/1996-02-indep-cyberspace.md)  
  
  [How Can African Feminism Change the World with Cryptocurrency?](https://www.cryptocoinsnews.com/can-african-feminism-change-world-cryptocurrency/) 
+ 
+ 
+ **Additional Information**
+ 
+ [A COLLECTION OF MANIFESTOS](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)  
 
-<br>
+
+
 
 ## Week 9 - Podcast Audio-Finalizing Session 
 **Tuesday, November 7, 10am**
