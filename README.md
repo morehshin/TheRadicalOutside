@@ -316,7 +316,7 @@ OR
  [How Can African Feminism Change the World with Cryptocurrency?](https://www.cryptocoinsnews.com/can-african-feminism-change-world-cryptocurrency/) 
  
  
- **Additional Information**
+ **Additional Resources**
  
  [A COLLECTION OF MANIFESTOS](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)  
 
