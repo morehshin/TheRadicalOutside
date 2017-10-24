@@ -297,11 +297,22 @@ Linear Time + History
 ## Week 8: Manifestos for the Internet Age 
 **Tuesday, November 1, 10am**
 
-1. Yumi
+1. Yumi 
+
+[Manifesto of the Japanese Futurist Movement](http://www.cabinetmagazine.org/issues/13/renkichi.php)
+
+OR
+
+[The Metabolism manifesto](https://en.wikipedia.org/wiki/Metabolism_(architecture)#The_Metabolism_manifesto)
 
 2. Wei
 
-3. Niklas
+
+3. Niklas 
+
+ [Bitcoin Manifesto](https://github.com/greyscalepress/manifestos/blob/master/content/manifestos/1996-02-indep-cyberspace.md)  
+ 
+ [How Can African Feminism Change the World with Cryptocurrency?](https://www.cryptocoinsnews.com/can-african-feminism-change-world-cryptocurrency/) 
 
 <br>
 
