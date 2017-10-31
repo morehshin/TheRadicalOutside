@@ -319,7 +319,14 @@ OR
  **Additional Resources**
  
  [A COLLECTION OF MANIFESTOS](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)  
-
+ 
+ [Welcome to the Anthropocene](https://vimeo.com/39048998) 
+ 
+ [You Alright?](https://vimeo.com/96718636)
+ 
+ [The Beauty of All Things Falling](https://vimeo.com/30042741)
+ 
+ [Some Sites and Their Artifacts: 123D Catch](https://vimeo.com/94477383) 
 
 
 
