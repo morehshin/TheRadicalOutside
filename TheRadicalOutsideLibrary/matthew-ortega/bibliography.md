@@ -1,6 +1,6 @@
 Bibliography
 
-1. Amelia Abreu, “The Collection and the Cloud,” March 9, 2015, https://thenewinquiry.com/the-collection-and-the-cloud/.
+1. Claire Evans, “An Oral History of the First Cyberfeminists”, December 11, 2015, https://motherboard.vice.com/en_us/article/z4mqa8/an-oral-history-of-the-first-cyberfeminists-vns-matrix.
 
 2. Kate Crawford, 'Asking the Oracle' in Astro Noise, ed. Laura Poitras (New Haven: Yale University Press, 2016), 128-141. 
 
